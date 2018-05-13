@@ -1,0 +1,88 @@
+b -a,Tn 0SxEMF_ApU-KnTumDally+01intlow_1  ..\..\..\..\0SA\mod\0Sex\anim\EMF\KNy2Uy6\ApU\KnTumDally\01\0SxEMF_ApU-KnTumDally+01intlow_1.hkx
+b -a,Tn 0SxEMF_ApU-KnTumDally+01intlow_0  ..\..\..\..\0SA\mod\0Sex\anim\EMF\KNy2Uy6\ApU\KnTumDally\01\0SxEMF_ApU-KnTumDally+01intlow_0.hkx
+
+
+
+b -a,Tn 0SxEMF_ApU-St9Dally+01weapon_1  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\01\0SxEMF_ApU-St9Dally+01weapon_1.hkx
+b -a,Tn 0SxEMF_ApU-St9Dally+01weapon_0  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\01\0SxEMF_ApU-St9Dally+01weapon_0.hkx
+
+b -a,Tn 0SxEMF_ApU-St9Dally+01cape_1  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\01\0SxEMF_ApU-St9Dally+01cape_1.hkx
+b -a,Tn 0SxEMF_ApU-St9Dally+01cape_0  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\01\0SxEMF_ApU-St9Dally+01cape_0.hkx
+
+b -a,Tn 0SxEMF_ApU-St9Dally+01gloves_1  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\01\0SxEMF_ApU-St9Dally+01gloves_1.hkx
+b -a,Tn 0SxEMF_ApU-St9Dally+01gloves_0  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\01\0SxEMF_ApU-St9Dally+01gloves_0.hkx
+
+b -a,Tn 0SxEMF_ApU-St9Dally+01boots_1  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\01\0SxEMF_ApU-St9Dally+01boots_1.hkx
+b -a,Tn 0SxEMF_ApU-St9Dally+01boots_0  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\01\0SxEMF_ApU-St9Dally+01boots_0.hkx
+
+b -a,Tn 0SxEMF_ApU-St9Dally+01cuirass_1  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\01\0SxEMF_ApU-St9Dally+01cuirass_1.hkx
+b -a,Tn 0SxEMF_ApU-St9Dally+01cuirass_0  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\01\0SxEMF_ApU-St9Dally+01cuirass_0.hkx
+
+b -a,Tn 0SxEMF_ApU-St9Dally+01miscarms_1  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\01\0SxEMF_ApU-St9Dally+01miscarms_1.hkx
+b -a,Tn 0SxEMF_ApU-St9Dally+01miscarms_0  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\01\0SxEMF_ApU-St9Dally+01miscarms_0.hkx
+
+b -a,Tn 0SxEMF_ApU-St9Dally+01miscup_1  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\01\0SxEMF_ApU-St9Dally+01miscup_1.hkx
+b -a,Tn 0SxEMF_ApU-St9Dally+01miscup_0  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\01\0SxEMF_ApU-St9Dally+01miscup_0.hkx
+
+b -a,Tn 0SxEMF_ApU-St9Dally+01miscmid_1  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\01\0SxEMF_ApU-St9Dally+01miscmid_1.hkx
+b -a,Tn 0SxEMF_ApU-St9Dally+01miscmid_0  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\01\0SxEMF_ApU-St9Dally+01miscmid_0.hkx
+
+b -a,Tn 0SxEMF_ApU-St9Dally+01misclow_1  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\01\0SxEMF_ApU-St9Dally+01misclow_1.hkx
+b -a,Tn 0SxEMF_ApU-St9Dally+01misclow_0  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\01\0SxEMF_ApU-St9Dally+01misclow_0.hkx
+
+b -a,Tn 0SxEMF_ApU-St9Dally+01pants_1  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\01\0SxEMF_ApU-St9Dally+01pants_1.hkx
+b -a,Tn 0SxEMF_ApU-St9Dally+01pants_0  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\01\0SxEMF_ApU-St9Dally+01pants_0.hkx
+
+b -a,Tn 0SxEMF_ApU-St9Dally+01intlow_1  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\01\0SxEMF_ApU-St9Dally+01intlow_1.hkx
+b -a,Tn 0SxEMF_ApU-St9Dally+01intlow_0  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\01\0SxEMF_ApU-St9Dally+01intlow_0.hkx
+
+b -a,Tn 0SxEMF_ApU-St9Dally+01inthigh_1  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\01\0SxEMF_ApU-St9Dally+01inthigh_1.hkx
+b -a,Tn 0SxEMF_ApU-St9Dally+01inthigh_0  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\01\0SxEMF_ApU-St9Dally+01inthigh_0.hkx
+
+b -a,Tn 0SxEMF_ApU-St9Dally+01stockings_1  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\01\0SxEMF_ApU-St9Dally+01stockings_1.hkx
+b -a,Tn 0SxEMF_ApU-St9Dally+01stockings_0  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\01\0SxEMF_ApU-St9Dally+01stockings_0.hkx
+
+
+b -a,Tn 0SxEMF_ApU-St9Dally+10weapon_1  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\10\0SxEMF_ApU-St9Dally+10weapon_1.hkx
+b -a,Tn 0SxEMF_ApU-St9Dally+10weapon_0  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\10\0SxEMF_ApU-St9Dally+10weapon_0.hkx
+
+b -a,Tn 0SxEMF_ApU-St9Dally+10helmet_1  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\10\0SxEMF_ApU-St9Dally+10helmet_1.hkx
+b -a,Tn 0SxEMF_ApU-St9Dally+10helmet_0  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\10\0SxEMF_ApU-St9Dally+10helmet_0.hkx
+
+b -a,Tn 0SxEMF_ApU-St9Dally+10cape_1  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\10\0SxEMF_ApU-St9Dally+10cape_1.hkx
+b -a,Tn 0SxEMF_ApU-St9Dally+10cape_0  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\10\0SxEMF_ApU-St9Dally+10cape_0.hkx
+
+b -a,Tn 0SxEMF_ApU-St9Dally+10gloves_1  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\10\0SxEMF_ApU-St9Dally+10gloves_1.hkx
+b -a,Tn 0SxEMF_ApU-St9Dally+10gloves_0  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\10\0SxEMF_ApU-St9Dally+10gloves_0.hkx
+
+b -a,Tn 0SxEMF_ApU-St9Dally+10boots_1  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\10\0SxEMF_ApU-St9Dally+10boots_1.hkx
+b -a,Tn 0SxEMF_ApU-St9Dally+10boots_0  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\10\0SxEMF_ApU-St9Dally+10boots_0.hkx
+
+b -a,Tn 0SxEMF_ApU-St9Dally+10cuirass_1  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\10\0SxEMF_ApU-St9Dally+10cuirass_1.hkx
+b -a,Tn 0SxEMF_ApU-St9Dally+10cuirass_0  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\10\0SxEMF_ApU-St9Dally+10cuirass_0.hkx
+
+b -a,Tn 0SxEMF_ApU-St9Dally+10miscarms_1  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\10\0SxEMF_ApU-St9Dally+10miscarms_1.hkx
+b -a,Tn 0SxEMF_ApU-St9Dally+10miscarms_0  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\10\0SxEMF_ApU-St9Dally+10miscarms_0.hkx
+
+b -a,Tn 0SxEMF_ApU-St9Dally+10miscup_1  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\10\0SxEMF_ApU-St9Dally+10miscup_1.hkx
+b -a,Tn 0SxEMF_ApU-St9Dally+10miscup_0  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\10\0SxEMF_ApU-St9Dally+10miscup_0.hkx
+
+b -a,Tn 0SxEMF_ApU-St9Dally+10miscmid_1  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\10\0SxEMF_ApU-St9Dally+10miscmid_1.hkx
+b -a,Tn 0SxEMF_ApU-St9Dally+10miscmid_0  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\10\0SxEMF_ApU-St9Dally+10miscmid_0.hkx
+
+b -a,Tn 0SxEMF_ApU-St9Dally+10misclow_1  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\10\0SxEMF_ApU-St9Dally+10misclow_1.hkx
+b -a,Tn 0SxEMF_ApU-St9Dally+10misclow_0  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\10\0SxEMF_ApU-St9Dally+10misclow_0.hkx
+
+b -a,Tn 0SxEMF_ApU-St9Dally+10pants_1  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\10\0SxEMF_ApU-St9Dally+10pants_1.hkx
+b -a,Tn 0SxEMF_ApU-St9Dally+10pants_0  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\10\0SxEMF_ApU-St9Dally+10pants_0.hkx
+
+b -a,Tn 0SxEMF_ApU-St9Dally+10intlow_1  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\10\0SxEMF_ApU-St9Dally+10intlow_1.hkx
+b -a,Tn 0SxEMF_ApU-St9Dally+10intlow_0  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\10\0SxEMF_ApU-St9Dally+10intlow_0.hkx
+
+b -a,Tn 0SxEMF_ApU-St9Dally+10inthigh_1  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\10\0SxEMF_ApU-St9Dally+10inthigh_1.hkx
+b -a,Tn 0SxEMF_ApU-St9Dally+10inthigh_0  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\10\0SxEMF_ApU-St9Dally+10inthigh_0.hkx
+
+b -a,Tn 0SxEMF_ApU-St9Dally+10stockings_1  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\10\0SxEMF_ApU-St9Dally+10stockings_1.hkx
+b -a,Tn 0SxEMF_ApU-St9Dally+10stockings_0  ..\..\..\..\0SA\mod\0Sex\anim\EMF\Sy6Sy9\ApU\St9Dally\10\0SxEMF_ApU-St9Dally+10stockings_0.hkx
+
+

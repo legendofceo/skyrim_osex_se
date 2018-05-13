@@ -1,0 +1,7 @@
+<scene id="0MF|Iy2!Iy2|Em|SpoonEmb+01Emx" actors="2" style="OScene">
+<info name="Spoon, Embrace |+ Release" animator="Ceo"/>
+<anim id="0Sx0MF_Em-SpoonEmb+01Emx" t="T" l="2" dest="0MF|Iy2!Iy2|Ho|Spoon">
+<dfx a="0" fx="1"/>
+<dfx a="1" fx="1"/>
+</anim>
+</scene>

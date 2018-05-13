@@ -1,0 +1,52 @@
+<scene id="0MF|YHy6!My9|Ho|MishHov" actors="2" style="OScene">
+<info name="Missionary | Affection" animator="Ceo"/>
+<region om="A" maj="M" min="M" stage="" step="" story=""/>
+<anim id="0Sx0MF_Ho-MishHov" t="L" l="2"/>
+
+<nav>
+	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
+		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="" go="^+00YdOffZ" text="^layBackBetweePThighs" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option style="gendericosplit" a="0" go="^+00Kn" text="^getOnKnees">
+			<genico halo="hmajorgo" icon="osx_kn_m">
+			<enhance a="0"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="0"/>
+			</genico>	
+			<genico halo="hmajorgo" icon="oknlbup_f" iRevX="1">
+			<enhance a="0"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="0"/>
+			</genico>			
+			</option>
+		</page>
+		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="^+01SxPm" text="^slideInsideOfW" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="0"/>
+			</option>
+		</page>		
+	</tab>
+	<tab icon="ssub" empty="1"><hue n="hu" cmd="rg" a="1"/></tab>
+</nav>
+<eyes a="0" facerel="0" actionrel="2" bodyrel="1">
+<primary v="10" h="10" vpan="10" hpan="10"/> 
+<face v="10" h="10" vpan="10" hpan="10"/> 
+<body v="10" h="10" vpan="10" hpan="10"/> 
+<action v="10" h="10" vpan="10" hpan="10"/> 
+<away v="-30" h="0" vpan="99" hpan="99"/>
+</eyes>	
+<eyes a="1" facerel="1" actionrel="2" bodyrel="0">
+<primary v="-60" h="-20" vpan="15" hpan="10" />
+<primary v="-60" h="-20" vpan="50" hpan="10" />
+<face v="-60" h="-20" vpan="15" hpan="10" />
+<body v="-60" h="-20" vpan="50" hpan="10" />
+<action v="-60" h="-20" vpan="50" hpan="10" />
+<away v="0" h="0" vpan="90" hpan="90" />
+</eyes>
+<motif drive="intimate" theme="Affection"/>
+<motif drive="intimate" theme="Affection"/>
+<autonav>
+<hub b="0MF|YHy6!My9|Ho|MishHov+00Kn"/>
+<min Mz="0MF|YHy6!My9|Ho|MishHov+00YdOffZ"/>
+<fam KFy6MIy9="0MF|YHy6!My9|Ho|MishHov+00Kn" KNy6MUy9="0MF|YHy6!My9|Ho|MishHov+00Kn" KNy6My9="0MF|YHy6!My9|Ho|MishHov+00Kn"/>
+<ori Sx="0MF|YHy6!My9|Ho|MishHov+01SxPm"/>
+</autonav>
+</scene>

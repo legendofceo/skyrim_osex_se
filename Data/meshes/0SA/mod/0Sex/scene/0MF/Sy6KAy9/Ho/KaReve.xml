@@ -1,0 +1,38 @@
+<scene id="0MF|Sy6!KAy9|Ho|KaReve" actors="2" style="OScene">
+<info name="Kneel Reverence | Base" animator="Ceo"/>
+<region om="A" maj="K" min="K" stage="" step="" story=""/>
+<anim id="0Sx0MF_Ho-KaReve" t="L" l="2"/>
+<nav>
+	<tab icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
+	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
+		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="oknlbup_f" go="^+11Kn" text="^straightenBack">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="ohandsoffbody_$G1$G0" go="^+10Ap" text="^letGoOfW" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+	</tab>
+</nav>
+<eyes a="0" facerel="0" actionrel="2" bodyrel="1">
+<primary v="-100" h="0" vpan="10" hpan="10"/>
+<face v="-100" h="0" vpan="10" hpan="10"/>
+<body v="-100" h="0" vpan="10" hpan="10"/>
+<action v="-100" h="0" vpan="10" hpan="10"/>
+<away v="-100" h="0" vpan="80" hpan="100"/>
+</eyes>	 
+<eyes a="1" facerel="0" actionrel="2" bodyrel="0">
+<primary v="95" h="0" vpan="5" hpan="10" />
+<face v="95" h="0" vpan="5" hpan="10" />
+<body v="-100" h="0" vpan="20" hpan="10" />
+<action v="95" h="0" vpan="5" hpan="10" />
+<away v="-50" h="0" vpan="70" hpan="90" />
+</eyes>
+<motif drive="intimate" theme="Domineer"/>
+<motif drive="intimate" theme="Submissive"/>
+<autonav>
+<hub b="0MF|Sy6!KAy9|Ho|KaReve+11Kn"/>	
+<ori Ap="0MF|Sy6!KAy9|Ho|KaReve+10Ap" ApHJ="0MF|Sy6!KAy9|Ho|KaReve+10Ap"/>
+</autonav>
+</scene>

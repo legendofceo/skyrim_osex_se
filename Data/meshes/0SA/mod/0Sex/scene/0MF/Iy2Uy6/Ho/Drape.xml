@@ -1,0 +1,38 @@
+<scene id="0MF|Iy2!Uy6|Ho|Drape" actors="2" style="OScene">
+<info name="Drape | Affection" animator="Ceo"/>
+<region om="A" maj="I" min="I" stage="" step="" story=""/>
+<anim id="0Sx0MF_Ho-Drape" t="L" l="2"/>
+<nav>
+	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
+		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="osx_layside_f" go="^+01TI2" text="^turnWOnPSide" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="ohandsoffbody_$G0$G1" go="^+01Lego" text="^letGoOfW" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="0"/>
+			</option>
+		</page>
+	</tab>
+	<tab icon="ssub" empty="1"><hue n="hu" cmd="rg" a="1"/></tab>
+</nav>
+<eyes a="0" facerel="0" actionrel="2" bodyrel="1">
+<primary v="-80" h="20" vpan="10" hpan="6"/>
+<face v="-80" h="20" vpan="10" hpan="6"/>
+<body v="-80" h="20" vpan="10" hpan="6"/>
+<action v="-80" h="20" vpan="10" hpan="6"/>
+<away v="-20" h="0" vpan="99" hpan="90"/>
+</eyes>	
+<eyes a="1" facerel="1" actionrel="2" bodyrel="0">
+<primary v="45" h="-20" vpan="5" hpan="5" />
+<face v="45" h="-20" vpan="5" hpan="5" />
+<body v="45" h="-20" vpan="5" hpan="5" />
+<action v="45" h="-20" vpan="5" hpan="5" />
+<away v="0" h="0" vpan="90" hpan="90" />
+</eyes>
+<motif drive="intimate" theme="Affection"/>
+<motif drive="intimate" theme="Affection"/>
+<autonav>
+<hub b="0MF|Iy2!Uy6|Ho|Drape+01Lego"/>
+<fam Iy2Iy2="0MF|Iy2!Uy6|Ho|Drape+01TI2"/>
+</autonav>
+</scene>

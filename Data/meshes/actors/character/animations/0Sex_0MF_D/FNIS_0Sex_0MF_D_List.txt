@@ -1,0 +1,339 @@
+b -Tn 0Sx0MF_Ho-Trunk_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Ho\Trunk\0Sx0MF_Ho-Trunk_1.hkx
+b -Tn 0Sx0MF_Ho-Trunk_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Ho\Trunk\0Sx0MF_Ho-Trunk_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-Trunk+01So45_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Ho\Trunk\0Sx0MF_Ho-Trunk+01So45_1.hkx
+b -a,Tn 0Sx0MF_Ho-Trunk+01So45_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Ho\Trunk\0Sx0MF_Ho-Trunk+01So45_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-Trunk+01Crt_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Ho\Trunk\0Sx0MF_Ho-Trunk+01Crt_1.hkx
+b -a,Tn 0Sx0MF_Ho-Trunk+01Crt_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Ho\Trunk\0Sx0MF_Ho-Trunk+01Crt_0.hkx
+
+
+b -Tn 0Sx0MF_Cr-TrunkCrf_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Cr\TrunkCrf\0Sx0MF_Cr-TrunkCrf_S0_1.hkx
+b -Tn 0Sx0MF_Cr-TrunkCrf_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Cr\TrunkCrf\0Sx0MF_Cr-TrunkCrf_S0_0.hkx
+
+b -Tn 0Sx0MF_Cr-TrunkCrf_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Cr\TrunkCrf\0Sx0MF_Cr-TrunkCrf_S1_1.hkx
+b -Tn 0Sx0MF_Cr-TrunkCrf_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Cr\TrunkCrf\0Sx0MF_Cr-TrunkCrf_S1_0.hkx
+
+b -Tn 0Sx0MF_Cr-TrunkCrf_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Cr\TrunkCrf\0Sx0MF_Cr-TrunkCrf_S2_1.hkx
+b -Tn 0Sx0MF_Cr-TrunkCrf_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Cr\TrunkCrf\0Sx0MF_Cr-TrunkCrf_S2_0.hkx
+
+b -Tn 0Sx0MF_Cr-TrunkCrf_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Cr\TrunkCrf\0Sx0MF_Cr-TrunkCrf_S3_1.hkx
+b -Tn 0Sx0MF_Cr-TrunkCrf_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Cr\TrunkCrf\0Sx0MF_Cr-TrunkCrf_S3_0.hkx
+
+b -Tn 0Sx0MF_Cr-TrunkCrf_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Cr\TrunkCrf\0Sx0MF_Cr-TrunkCrf_S4_1.hkx
+b -Tn 0Sx0MF_Cr-TrunkCrf_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Cr\TrunkCrf\0Sx0MF_Cr-TrunkCrf_S4_0.hkx
+
+b -Tn 0Sx0MF_Cr-TrunkCrf_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Cr\TrunkCrf\0Sx0MF_Cr-TrunkCrf_S5_1.hkx
+b -Tn 0Sx0MF_Cr-TrunkCrf_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Cr\TrunkCrf\0Sx0MF_Cr-TrunkCrf_S5_0.hkx
+
+
+b -a,Tn 0Sx0MF_Cr-TrunkCrf+01Pf1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Cr\TrunkCrf\0Sx0MF_Cr-TrunkCrf+01Pf1_1.hkx
+b -a,Tn 0Sx0MF_Cr-TrunkCrf+01Pf1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Cr\TrunkCrf\0Sx0MF_Cr-TrunkCrf+01Pf1_0.hkx
+
+b -a,Tn 0Sx0MF_Cr-TrunkCrf+01Pf2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Cr\TrunkCrf\0Sx0MF_Cr-TrunkCrf+01Pf2_1.hkx
+b -a,Tn 0Sx0MF_Cr-TrunkCrf+01Pf2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Cr\TrunkCrf\0Sx0MF_Cr-TrunkCrf+01Pf2_0.hkx
+
+
+
+b -Tn 0Sx0MF_Pf1-TrunkPf1_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Pf1\TrunkPf1\0Sx0MF_Pf1-TrunkPf1_S0_1.hkx
+b -Tn 0Sx0MF_Pf1-TrunkPf1_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Pf1\TrunkPf1\0Sx0MF_Pf1-TrunkPf1_S0_0.hkx
+
+b -Tn 0Sx0MF_Pf1-TrunkPf1_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Pf1\TrunkPf1\0Sx0MF_Pf1-TrunkPf1_S1_1.hkx
+b -Tn 0Sx0MF_Pf1-TrunkPf1_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Pf1\TrunkPf1\0Sx0MF_Pf1-TrunkPf1_S1_0.hkx
+
+b -Tn 0Sx0MF_Pf1-TrunkPf1_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Pf1\TrunkPf1\0Sx0MF_Pf1-TrunkPf1_S2_1.hkx
+b -Tn 0Sx0MF_Pf1-TrunkPf1_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Pf1\TrunkPf1\0Sx0MF_Pf1-TrunkPf1_S2_0.hkx
+
+b -Tn 0Sx0MF_Pf1-TrunkPf1_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Pf1\TrunkPf1\0Sx0MF_Pf1-TrunkPf1_S3_1.hkx
+b -Tn 0Sx0MF_Pf1-TrunkPf1_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Pf1\TrunkPf1\0Sx0MF_Pf1-TrunkPf1_S3_0.hkx
+
+b -Tn 0Sx0MF_Pf1-TrunkPf1_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Pf1\TrunkPf1\0Sx0MF_Pf1-TrunkPf1_S4_1.hkx
+b -Tn 0Sx0MF_Pf1-TrunkPf1_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Pf1\TrunkPf1\0Sx0MF_Pf1-TrunkPf1_S4_0.hkx
+
+b -a,Tn 0Sx0MF_Pf1-TrunkPf1+01Pfx_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Pf1\TrunkPf1\0Sx0MF_Pf1-TrunkPf1+01Pfx_1.hkx
+b -a,Tn 0Sx0MF_Pf1-TrunkPf1+01Pfx_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Pf1\TrunkPf1\0Sx0MF_Pf1-TrunkPf1+01Pfx_0.hkx
+
+
+b -Tn 0Sx0MF_Pf2-TrunkPf2_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Pf2\TrunkPf2\0Sx0MF_Pf2-TrunkPf2_S0_1.hkx
+b -Tn 0Sx0MF_Pf2-TrunkPf2_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Pf2\TrunkPf2\0Sx0MF_Pf2-TrunkPf2_S0_0.hkx
+
+b -Tn 0Sx0MF_Pf2-TrunkPf2_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Pf2\TrunkPf2\0Sx0MF_Pf2-TrunkPf2_S1_1.hkx
+b -Tn 0Sx0MF_Pf2-TrunkPf2_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Pf2\TrunkPf2\0Sx0MF_Pf2-TrunkPf2_S1_0.hkx
+
+b -Tn 0Sx0MF_Pf2-TrunkPf2_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Pf2\TrunkPf2\0Sx0MF_Pf2-TrunkPf2_S2_1.hkx
+b -Tn 0Sx0MF_Pf2-TrunkPf2_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Pf2\TrunkPf2\0Sx0MF_Pf2-TrunkPf2_S2_0.hkx
+
+b -Tn 0Sx0MF_Pf2-TrunkPf2_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Pf2\TrunkPf2\0Sx0MF_Pf2-TrunkPf2_S3_1.hkx
+b -Tn 0Sx0MF_Pf2-TrunkPf2_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Pf2\TrunkPf2\0Sx0MF_Pf2-TrunkPf2_S3_0.hkx
+
+b -Tn 0Sx0MF_Pf2-TrunkPf2_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Pf2\TrunkPf2\0Sx0MF_Pf2-TrunkPf2_S4_1.hkx
+b -Tn 0Sx0MF_Pf2-TrunkPf2_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Pf2\TrunkPf2\0Sx0MF_Pf2-TrunkPf2_S4_0.hkx
+
+b -a,Tn 0Sx0MF_Pf2-TrunkPf2+01Pfx_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Pf2\TrunkPf2\0Sx0MF_Pf2-TrunkPf2+01Pfx_1.hkx
+b -a,Tn 0Sx0MF_Pf2-TrunkPf2+01Pfx_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Pf2\TrunkPf2\0Sx0MF_Pf2-TrunkPf2+01Pfx_0.hkx
+
+
+b -Tn 0Sx0MF_Ho-DoggyLi_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Ho\DoggyLi\0Sx0MF_Ho-DoggyLi_1.hkx
+b -Tn 0Sx0MF_Ho-DoggyLi_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Ho\DoggyLi\0Sx0MF_Ho-DoggyLi_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-DoggyLi+01KnLo_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Ho\DoggyLi\0Sx0MF_Ho-DoggyLi+01KnLo_1.hkx
+b -a,Tn 0Sx0MF_Ho-DoggyLi+01KnLo_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Ho\DoggyLi\0Sx0MF_Ho-DoggyLi+01KnLo_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-DoggyLi+00Po_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Ho\DoggyLi\0Sx0MF_Ho-DoggyLi+00Po_1.hkx
+b -a,Tn 0Sx0MF_Ho-DoggyLi+00Po_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Ho\DoggyLi\0Sx0MF_Ho-DoggyLi+00Po_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-DoggyLi+01SgYd_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Ho\DoggyLi\0Sx0MF_Ho-DoggyLi+01SgYd_1.hkx
+b -a,Tn 0Sx0MF_Ho-DoggyLi+01SgYd_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Ho\DoggyLi\0Sx0MF_Ho-DoggyLi+01SgYd_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-DoggyLi+01F180_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Ho\DoggyLi\0Sx0MF_Ho-DoggyLi+01F180_1.hkx
+b -a,Tn 0Sx0MF_Ho-DoggyLi+01F180_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Ho\DoggyLi\0Sx0MF_Ho-DoggyLi+01F180_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-DoggyLi+01SexSpankR_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Ho\DoggyLi\0Sx0MF_Ho-DoggyLi+01SexSpankR_1.hkx
+b -a,Tn 0Sx0MF_Ho-DoggyLi+01SexSpankR_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Ho\DoggyLi\0Sx0MF_Ho-DoggyLi+01SexSpankR_0.hkx
+
+
+b -Tn 0Sx0MF_Po-DoggyLiPo_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Po\DoggyLiPo\0Sx0MF_Po-DoggyLiPo_S0_1.hkx
+b -Tn 0Sx0MF_Po-DoggyLiPo_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Po\DoggyLiPo\0Sx0MF_Po-DoggyLiPo_S0_0.hkx
+
+b -Tn 0Sx0MF_Po-DoggyLiPo_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Po\DoggyLiPo\0Sx0MF_Po-DoggyLiPo_S1_1.hkx
+b -Tn 0Sx0MF_Po-DoggyLiPo_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Po\DoggyLiPo\0Sx0MF_Po-DoggyLiPo_S1_0.hkx
+
+b -Tn 0Sx0MF_Po-DoggyLiPo_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Po\DoggyLiPo\0Sx0MF_Po-DoggyLiPo_S2_1.hkx
+b -Tn 0Sx0MF_Po-DoggyLiPo_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Po\DoggyLiPo\0Sx0MF_Po-DoggyLiPo_S2_0.hkx
+
+b -Tn 0Sx0MF_Po-DoggyLiPo_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Po\DoggyLiPo\0Sx0MF_Po-DoggyLiPo_S3_1.hkx
+b -Tn 0Sx0MF_Po-DoggyLiPo_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Po\DoggyLiPo\0Sx0MF_Po-DoggyLiPo_S3_0.hkx
+
+b -Tn 0Sx0MF_Po-DoggyLiPo_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Po\DoggyLiPo\0Sx0MF_Po-DoggyLiPo_S4_1.hkx
+b -Tn 0Sx0MF_Po-DoggyLiPo_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Po\DoggyLiPo\0Sx0MF_Po-DoggyLiPo_S4_0.hkx
+
+b -Tn 0Sx0MF_Po-DoggyLiPo_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Po\DoggyLiPo\0Sx0MF_Po-DoggyLiPo_S5_1.hkx
+b -Tn 0Sx0MF_Po-DoggyLiPo_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Po\DoggyLiPo\0Sx0MF_Po-DoggyLiPo_S5_0.hkx
+
+b -a,Tn 0Sx0MF_Po-DoggyLiPo+01CXHo_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Po\DoggyLiPo\0Sx0MF_Po-DoggyLiPo+01CXHo_1.hkx
+b -a,Tn 0Sx0MF_Po-DoggyLiPo+01CXHo_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Po\DoggyLiPo\0Sx0MF_Po-DoggyLiPo+01CXHo_0.hkx
+
+b -a,Tn 0Sx0MF_Po-DoggyLiPo+01SxHT_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Po\DoggyLiPo\0Sx0MF_Po-DoggyLiPo+01SxHT_1.hkx
+b -a,Tn 0Sx0MF_Po-DoggyLiPo+01SxHT_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Po\DoggyLiPo\0Sx0MF_Po-DoggyLiPo+01SxHT_0.hkx
+
+
+b -Tn 0Sx0MF_Sx-DoggyLiSxHT_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Sx\DoggyLiSxHT\0Sx0MF_Sx-DoggyLiSxHT_S0_1.hkx
+b -Tn 0Sx0MF_Sx-DoggyLiSxHT_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Sx\DoggyLiSxHT\0Sx0MF_Sx-DoggyLiSxHT_S0_0.hkx
+
+b -Tn,T0S0/0.8 0Sx0MF_Sx-DoggyLiSxHT_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Sx\DoggyLiSxHT\0Sx0MF_Sx-DoggyLiSxHT_S1_1.hkx
+b -Tn 0Sx0MF_Sx-DoggyLiSxHT_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Sx\DoggyLiSxHT\0Sx0MF_Sx-DoggyLiSxHT_S1_0.hkx
+
+b -Tn,T0S0/0.4,T0S0/1.4 0Sx0MF_Sx-DoggyLiSxHT_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Sx\DoggyLiSxHT\0Sx0MF_Sx-DoggyLiSxHT_S2_1.hkx
+b -Tn 0Sx0MF_Sx-DoggyLiSxHT_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Sx\DoggyLiSxHT\0Sx0MF_Sx-DoggyLiSxHT_S2_0.hkx
+
+b -Tn,T0S0/0.3,T0S0/.9,T0S0/1.5 0Sx0MF_Sx-DoggyLiSxHT_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Sx\DoggyLiSxHT\0Sx0MF_Sx-DoggyLiSxHT_S3_1.hkx
+b -Tn 0Sx0MF_Sx-DoggyLiSxHT_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Sx\DoggyLiSxHT\0Sx0MF_Sx-DoggyLiSxHT_S3_0.hkx
+
+b -Tn,T0S0/0.2,T0S0/0.7,T0S0/1.2,T0S0/1.75 0Sx0MF_Sx-DoggyLiSxHT_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Sx\DoggyLiSxHT\0Sx0MF_Sx-DoggyLiSxHT_S4_1.hkx
+b -Tn 0Sx0MF_Sx-DoggyLiSxHT_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Sx\DoggyLiSxHT\0Sx0MF_Sx-DoggyLiSxHT_S4_0.hkx
+
+b -a,Tn 0Sx0MF_Sx-DoggyLiSxHT+01Po_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Sx\DoggyLiSxHT\0Sx0MF_Sx-DoggyLiSxHT+01Po_1.hkx
+b -a,Tn 0Sx0MF_Sx-DoggyLiSxHT+01Po_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Sx\DoggyLiSxHT\0Sx0MF_Sx-DoggyLiSxHT+01Po_0.hkx
+
+b -a,Tn 0Sx0MF_Sx-DoggyLiSxHT+01Bo45_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Sx\DoggyLiSxHT\0Sx0MF_Sx-DoggyLiSxHT+01Bo45_1.hkx
+b -a,Tn 0Sx0MF_Sx-DoggyLiSxHT+01Bo45_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DOy6\Sx\DoggyLiSxHT\0Sx0MF_Sx-DoggyLiSxHT+01Bo45_0.hkx
+
+
+
+b -Tn 0Sx0MF_Sx-DoggyLiPopSxHT_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DDy6\Sx\DoggyLiPopSxHT\0Sx0MF_Sx-DoggyLiPopSxHT_S0_1.hkx
+b -Tn 0Sx0MF_Sx-DoggyLiPopSxHT_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DDy6\Sx\DoggyLiPopSxHT\0Sx0MF_Sx-DoggyLiPopSxHT_S0_0.hkx
+
+b -Tn,T0S0/0.8 0Sx0MF_Sx-DoggyLiPopSxHT_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DDy6\Sx\DoggyLiPopSxHT\0Sx0MF_Sx-DoggyLiPopSxHT_S1_1.hkx
+b -Tn 0Sx0MF_Sx-DoggyLiPopSxHT_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DDy6\Sx\DoggyLiPopSxHT\0Sx0MF_Sx-DoggyLiPopSxHT_S1_0.hkx
+
+b -Tn,T0S0/0.4,T0S0/1.4 0Sx0MF_Sx-DoggyLiPopSxHT_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DDy6\Sx\DoggyLiPopSxHT\0Sx0MF_Sx-DoggyLiPopSxHT_S2_1.hkx
+b -Tn 0Sx0MF_Sx-DoggyLiPopSxHT_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DDy6\Sx\DoggyLiPopSxHT\0Sx0MF_Sx-DoggyLiPopSxHT_S2_0.hkx
+
+b -Tn,T0S0/0.3,T0S0/.9,T0S0/1.5 0Sx0MF_Sx-DoggyLiPopSxHT_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DDy6\Sx\DoggyLiPopSxHT\0Sx0MF_Sx-DoggyLiPopSxHT_S3_1.hkx
+b -Tn 0Sx0MF_Sx-DoggyLiPopSxHT_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DDy6\Sx\DoggyLiPopSxHT\0Sx0MF_Sx-DoggyLiPopSxHT_S3_0.hkx
+
+b -Tn,T0S_AMST/0.0,T0S0/0.2,T0S0/0.7,T0S0/1.2,T0S0/1.75 0Sx0MF_Sx-DoggyLiPopSxHT_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DDy6\Sx\DoggyLiPopSxHT\0Sx0MF_Sx-DoggyLiPopSxHT_S4_1.hkx
+b -Tn 0Sx0MF_Sx-DoggyLiPopSxHT_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DDy6\Sx\DoggyLiPopSxHT\0Sx0MF_Sx-DoggyLiPopSxHT_S4_0.hkx
+
+b -a,Tn 0Sx0MF_Sx-DoggyLiPopSxHT+01So45_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DDy6\Sx\DoggyLiPopSxHT\0Sx0MF_Sx-DoggyLiPopSxHT+01So45_1.hkx
+b -a,Tn 0Sx0MF_Sx-DoggyLiPopSxHT+01So45_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DDy6\Sx\DoggyLiPopSxHT\0Sx0MF_Sx-DoggyLiPopSxHT+01So45_0.hkx
+
+b -a,Tn 0Sx0MF_Sx-DoggyLiPopSxHT+01TAS_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DDy6\Sx\DoggyLiPopSxHT\0Sx0MF_Sx-DoggyLiPopSxHT+01TAS_1.hkx
+b -a,Tn 0Sx0MF_Sx-DoggyLiPopSxHT+01TAS_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DDy6\Sx\DoggyLiPopSxHT\0Sx0MF_Sx-DoggyLiPopSxHT+01TAS_0.hkx
+
+
+
+b -Tn 0Sx0MF_Sx-DeLiPistonSxHT_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DEy6\Sx\DeLiPistonSxHT\0Sx0MF_Sx-DeLiPistonSxHT_S0_1.hkx
+b -Tn 0Sx0MF_Sx-DeLiPistonSxHT_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DEy6\Sx\DeLiPistonSxHT\0Sx0MF_Sx-DeLiPistonSxHT_S0_0.hkx
+
+b -Tn,T0S0/0.8 0Sx0MF_Sx-DeLiPistonSxHT_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DEy6\Sx\DeLiPistonSxHT\0Sx0MF_Sx-DeLiPistonSxHT_S1_1.hkx
+b -Tn 0Sx0MF_Sx-DeLiPistonSxHT_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DEy6\Sx\DeLiPistonSxHT\0Sx0MF_Sx-DeLiPistonSxHT_S1_0.hkx
+
+b -Tn,T0S0/0.4,T0S0/1.4 0Sx0MF_Sx-DeLiPistonSxHT_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DEy6\Sx\DeLiPistonSxHT\0Sx0MF_Sx-DeLiPistonSxHT_S2_1.hkx
+b -Tn 0Sx0MF_Sx-DeLiPistonSxHT_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DEy6\Sx\DeLiPistonSxHT\0Sx0MF_Sx-DeLiPistonSxHT_S2_0.hkx
+
+b -Tn,T0S0/0.3,T0S0/.9,T0S0/1.5 0Sx0MF_Sx-DeLiPistonSxHT_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DEy6\Sx\DeLiPistonSxHT\0Sx0MF_Sx-DeLiPistonSxHT_S3_1.hkx
+b -Tn 0Sx0MF_Sx-DeLiPistonSxHT_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DEy6\Sx\DeLiPistonSxHT\0Sx0MF_Sx-DeLiPistonSxHT_S3_0.hkx
+
+b -Tn,T0S0/0.2,T0S0/0.7,T0S0/1.2,T0S0/1.75 0Sx0MF_Sx-DeLiPistonSxHT_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DEy6\Sx\DeLiPistonSxHT\0Sx0MF_Sx-DeLiPistonSxHT_S4_1.hkx
+b -Tn 0Sx0MF_Sx-DeLiPistonSxHT_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DEy6\Sx\DeLiPistonSxHT\0Sx0MF_Sx-DeLiPistonSxHT_S4_0.hkx
+
+b -a,Tn 0Sx0MF_Sx-DeLiPistonSxHT+01Tax_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DEy6\Sx\DeLiPistonSxHT\0Sx0MF_Sx-DeLiPistonSxHT+01Tax_1.hkx
+b -a,Tn 0Sx0MF_Sx-DeLiPistonSxHT+01Tax_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Cy6DEy6\Sx\DeLiPistonSxHT\0Sx0MF_Sx-DeLiPistonSxHT+01Tax_0.hkx
+
+'¦¦+  ¦¦+¦¦+   ¦¦+ ¦¦¦¦¦¦+               ¦¦¦¦¦¦+  ¦¦¦¦¦¦+ ¦¦+   ¦¦+ ¦¦¦¦¦¦+ 
+'¦¦¦ ¦¦+++¦¦+ ¦¦++¦¦+----+     _ ¦¦+_    ¦¦+--¦¦+¦¦+---¦¦++¦¦+ ¦¦++¦¦+----+ 
+'¦¦¦¦¦++  +¦¦¦¦++ ¦¦¦¦¦¦¦+      ¦¦¦¦+    ¦¦¦  ¦¦¦¦¦¦   ¦¦¦ +¦¦¦¦++ ¦¦¦¦¦¦¦+ 
+'¦¦+-¦¦+   +¦¦++  ¦¦+---¦¦+    ¯+¦¦+¯    ¦¦¦  ¦¦¦¦¦¦   ¦¦¦  +¦¦++  ¦¦+---¦¦+
+'¦¦¦  ¦¦+   ¦¦¦   +¦¦¦¦¦¦++      +-+     ¦¦¦¦¦¦+++¦¦¦¦¦¦++   ¦¦¦   +¦¦¦¦¦¦++
+'+-+  +-+   +-+    +-----+               +-----+  +-----+    +-+    +-----+ 
+
+
+b -Tn 0Sx0MF_Ho-DoggyLo_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Ho\DoggyLo\0Sx0MF_Ho-DoggyLo_1.hkx
+b -Tn 0Sx0MF_Ho-DoggyLo_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Ho\DoggyLo\0Sx0MF_Ho-DoggyLo_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-DoggyLo+01CuLi_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Ho\DoggyLo\0Sx0MF_Ho-DoggyLo+01CuLi_1.hkx
+b -a,Tn 0Sx0MF_Ho-DoggyLo+01CuLi_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Ho\DoggyLo\0Sx0MF_Ho-DoggyLo+01CuLi_0.hkx
+
+
+b -a,Tn 0Sx0MF_Ho-DoggyLo+01F180_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Ho\DoggyLo\0Sx0MF_Ho-DoggyLo+01F180_1.hkx
+b -a,Tn 0Sx0MF_Ho-DoggyLo+01F180_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Ho\DoggyLo\0Sx0MF_Ho-DoggyLo+01F180_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-DoggyLo+01SiLa_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Ho\DoggyLo\0Sx0MF_Ho-DoggyLo+01SiLa_1.hkx
+b -a,Tn 0Sx0MF_Ho-DoggyLo+01SiLa_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Ho\DoggyLo\0Sx0MF_Ho-DoggyLo+01SiLa_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-DoggyLo+00Po_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Ho\DoggyLo\0Sx0MF_Ho-DoggyLo+00Po_1.hkx
+b -a,Tn 0Sx0MF_Ho-DoggyLo+00Po_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Ho\DoggyLo\0Sx0MF_Ho-DoggyLo+00Po_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-DoggyLo+01Bo45_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Ho\DoggyLo\0Sx0MF_Ho-DoggyLo+01Bo45_1.hkx
+b -a,Tn 0Sx0MF_Ho-DoggyLo+01Bo45_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Ho\DoggyLo\0Sx0MF_Ho-DoggyLo+01Bo45_0.hkx
+
+
+
+
+
+b -Tn 0Sx0MF_Po-DoggyLoPo_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Po\DoggyLoPo\0Sx0MF_Po-DoggyLoPo_S0_1.hkx
+b -Tn 0Sx0MF_Po-DoggyLoPo_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Po\DoggyLoPo\0Sx0MF_Po-DoggyLoPo_S0_0.hkx
+
+b -Tn 0Sx0MF_Po-DoggyLoPo_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Po\DoggyLoPo\0Sx0MF_Po-DoggyLoPo_S1_1.hkx
+b -Tn 0Sx0MF_Po-DoggyLoPo_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Po\DoggyLoPo\0Sx0MF_Po-DoggyLoPo_S1_0.hkx
+
+b -Tn 0Sx0MF_Po-DoggyLoPo_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Po\DoggyLoPo\0Sx0MF_Po-DoggyLoPo_S2_1.hkx
+b -Tn 0Sx0MF_Po-DoggyLoPo_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Po\DoggyLoPo\0Sx0MF_Po-DoggyLoPo_S2_0.hkx
+
+b -Tn 0Sx0MF_Po-DoggyLoPo_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Po\DoggyLoPo\0Sx0MF_Po-DoggyLoPo_S3_1.hkx
+b -Tn 0Sx0MF_Po-DoggyLoPo_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Po\DoggyLoPo\0Sx0MF_Po-DoggyLoPo_S3_0.hkx
+
+b -Tn 0Sx0MF_Po-DoggyLoPo_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Po\DoggyLoPo\0Sx0MF_Po-DoggyLoPo_S4_1.hkx
+b -Tn 0Sx0MF_Po-DoggyLoPo_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Po\DoggyLoPo\0Sx0MF_Po-DoggyLoPo_S4_0.hkx
+
+b -Tn 0Sx0MF_Po-DoggyLoPo_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Po\DoggyLoPo\0Sx0MF_Po-DoggyLoPo_S5_1.hkx
+b -Tn 0Sx0MF_Po-DoggyLoPo_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Po\DoggyLoPo\0Sx0MF_Po-DoggyLoPo_S5_0.hkx
+
+b -a,Tn 0Sx0MF_Po-DoggyLoPo+00CXHo_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Po\DoggyLoPo\0Sx0MF_Po-DoggyLoPo+00CXHo_1.hkx
+b -a,Tn 0Sx0MF_Po-DoggyLoPo+00CXHo_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Po\DoggyLoPo\0Sx0MF_Po-DoggyLoPo+00CXHo_0.hkx
+
+b -a,Tn 0Sx0MF_Po-DoggyLoPo+01SxHT_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Po\DoggyLoPo\0Sx0MF_Po-DoggyLoPo+01SxHT_1.hkx
+b -a,Tn 0Sx0MF_Po-DoggyLoPo+01SxHT_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Po\DoggyLoPo\0Sx0MF_Po-DoggyLoPo+01SxHT_0.hkx
+
+
+
+
+b -Tn 0Sx0MF_Sx-DoggyLoSxHT_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyLoSxHT\0Sx0MF_Sx-DoggyLoSxHT_S0_1.hkx
+b -Tn 0Sx0MF_Sx-DoggyLoSxHT_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyLoSxHT\0Sx0MF_Sx-DoggyLoSxHT_S0_0.hkx
+
+b -Tn,T0S0/0.8 0Sx0MF_Sx-DoggyLoSxHT_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyLoSxHT\0Sx0MF_Sx-DoggyLoSxHT_S1_1.hkx
+b -Tn 0Sx0MF_Sx-DoggyLoSxHT_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyLoSxHT\0Sx0MF_Sx-DoggyLoSxHT_S1_0.hkx
+
+b -Tn,T0S0/0.4,T0S0/1.4 0Sx0MF_Sx-DoggyLoSxHT_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyLoSxHT\0Sx0MF_Sx-DoggyLoSxHT_S2_1.hkx
+b -Tn 0Sx0MF_Sx-DoggyLoSxHT_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyLoSxHT\0Sx0MF_Sx-DoggyLoSxHT_S2_0.hkx
+
+b -Tn,T0S0/0.3,T0S0/.9,T0S0/1.5 0Sx0MF_Sx-DoggyLoSxHT_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyLoSxHT\0Sx0MF_Sx-DoggyLoSxHT_S3_1.hkx
+b -Tn 0Sx0MF_Sx-DoggyLoSxHT_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyLoSxHT\0Sx0MF_Sx-DoggyLoSxHT_S3_0.hkx
+
+b -a,Tn 0Sx0MF_Sx-DoggyLoSxHT+01Po_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyLoSxHT\0Sx0MF_Sx-DoggyLoSxHT+01Po_1.hkx
+b -a,Tn 0Sx0MF_Sx-DoggyLoSxHT+01Po_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyLoSxHT\0Sx0MF_Sx-DoggyLoSxHT+01Po_0.hkx
+
+b -a,Tn 0Sx0MF_Sx-DoggyLoSxHT+00Strup_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyLoSxHT\0Sx0MF_Sx-DoggyLoSxHT+00Strup_1.hkx
+b -a,Tn 0Sx0MF_Sx-DoggyLoSxHT+00Strup_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyLoSxHT\0Sx0MF_Sx-DoggyLoSxHT+00Strup_0.hkx
+
+
+b -Tn 0Sx0MF_Sx-DoggyVanilla_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyVanilla\0Sx0MF_Sx-DoggyVanilla_S0_1.hkx
+b -Tn 0Sx0MF_Sx-DoggyVanilla_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyVanilla\0Sx0MF_Sx-DoggyVanilla_S0_0.hkx
+
+b -Tn,T0S0/0.8 0Sx0MF_Sx-DoggyVanilla_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyVanilla\0Sx0MF_Sx-DoggyVanilla_S1_1.hkx
+b -Tn 0Sx0MF_Sx-DoggyVanilla_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyVanilla\0Sx0MF_Sx-DoggyVanilla_S1_0.hkx
+
+b -Tn,T0S0/0.4 0Sx0MF_Sx-DoggyVanilla_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyVanilla\0Sx0MF_Sx-DoggyVanilla_S2_1.hkx
+b -Tn 0Sx0MF_Sx-DoggyVanilla_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyVanilla\0Sx0MF_Sx-DoggyVanilla_S2_0.hkx
+
+b -Tn,T0S0/0.3 0Sx0MF_Sx-DoggyVanilla_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyVanilla\0Sx0MF_Sx-DoggyVanilla_S3_1.hkx
+b -Tn 0Sx0MF_Sx-DoggyVanilla_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyVanilla\0Sx0MF_Sx-DoggyVanilla_S3_0.hkx
+
+b -Tn,T0S0/0.2 0Sx0MF_Sx-DoggyVanilla_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyVanilla\0Sx0MF_Sx-DoggyVanilla_S4_1.hkx
+b -Tn 0Sx0MF_Sx-DoggyVanilla_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyVanilla\0Sx0MF_Sx-DoggyVanilla_S4_0.hkx
+
+
+b -Tn 0Sx0MF_Sx-DoggyVanilla8B_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyVanilla8B\0Sx0MF_Sx-DoggyVanilla8B_S0_1.hkx
+b -Tn 0Sx0MF_Sx-DoggyVanilla8B_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyVanilla8B\0Sx0MF_Sx-DoggyVanilla8B_S0_0.hkx
+
+b -Tn,T0S0/0.8 0Sx0MF_Sx-DoggyVanilla8B_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyVanilla8B\0Sx0MF_Sx-DoggyVanilla8B_S1_1.hkx
+b -Tn 0Sx0MF_Sx-DoggyVanilla8B_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyVanilla8B\0Sx0MF_Sx-DoggyVanilla8B_S1_0.hkx
+
+b -Tn,T0S0/0.4 0Sx0MF_Sx-DoggyVanilla8B_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyVanilla8B\0Sx0MF_Sx-DoggyVanilla8B_S2_1.hkx
+b -Tn 0Sx0MF_Sx-DoggyVanilla8B_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyVanilla8B\0Sx0MF_Sx-DoggyVanilla8B_S2_0.hkx
+
+b -Tn,T0S0/0.3 0Sx0MF_Sx-DoggyVanilla8B_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyVanilla8B\0Sx0MF_Sx-DoggyVanilla8B_S3_1.hkx
+b -Tn 0Sx0MF_Sx-DoggyVanilla8B_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyVanilla8B\0Sx0MF_Sx-DoggyVanilla8B_S3_0.hkx
+
+b -Tn,T0S0/0.2 0Sx0MF_Sx-DoggyVanilla8B_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyVanilla8B\0Sx0MF_Sx-DoggyVanilla8B_S4_1.hkx
+b -Tn 0Sx0MF_Sx-DoggyVanilla8B_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyVanilla8B\0Sx0MF_Sx-DoggyVanilla8B_S4_0.hkx
+
+
+b -a,Tn 0Sx0MF_Sx-DoggyVanilla+00Strdn_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyVanilla\0Sx0MF_Sx-DoggyVanilla+00Strdn_1.hkx
+b -a,Tn 0Sx0MF_Sx-DoggyVanilla+00Strdn_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyVanilla\0Sx0MF_Sx-DoggyVanilla+00Strdn_0.hkx
+
+b -a,Tn 0Sx0MF_Sx-DoggyVanilla+11LeDn_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyVanilla\0Sx0MF_Sx-DoggyVanilla+11LeDn_1.hkx
+b -a,Tn 0Sx0MF_Sx-DoggyVanilla+11LeDn_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\DoggyVanilla\0Sx0MF_Sx-DoggyVanilla+11LeDn_0.hkx
+
+
+b -Tn 0Sx0MF_Sx-Melt_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\Melt\0Sx0MF_Sx-Melt_S0_1.hkx
+b -Tn 0Sx0MF_Sx-Melt_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\Melt\0Sx0MF_Sx-Melt_S0_0.hkx
+
+b -Tn,T0S0/0.8 0Sx0MF_Sx-Melt_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\Melt\0Sx0MF_Sx-Melt_S1_1.hkx
+b -Tn 0Sx0MF_Sx-Melt_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\Melt\0Sx0MF_Sx-Melt_S1_0.hkx
+
+b -Tn,T0S0/0.4 0Sx0MF_Sx-Melt_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\Melt\0Sx0MF_Sx-Melt_S2_1.hkx
+b -Tn 0Sx0MF_Sx-Melt_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\Melt\0Sx0MF_Sx-Melt_S2_0.hkx
+
+b -Tn,T0S0/0.3 0Sx0MF_Sx-Melt_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\Melt\0Sx0MF_Sx-Melt_S3_1.hkx
+b -Tn 0Sx0MF_Sx-Melt_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\Melt\0Sx0MF_Sx-Melt_S3_0.hkx
+
+b -Tn,T0S0/0.2 0Sx0MF_Sx-Melt_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\Melt\0Sx0MF_Sx-Melt_S4_1.hkx
+b -Tn 0Sx0MF_Sx-Melt_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\Melt\0Sx0MF_Sx-Melt_S4_0.hkx
+
+b -a,Tn 0Sx0MF_Sx-Melt+11StrBk_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\Melt\0Sx0MF_Sx-Melt+11StrBk_1.hkx
+b -a,Tn 0Sx0MF_Sx-Melt+11StrBk_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\Melt\0Sx0MF_Sx-Melt+11StrBk_0.hkx
+
+b -a,Tn 0Sx0MF_Sx-Melt+11LeDn_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\Melt\0Sx0MF_Sx-Melt+11LeDn_1.hkx
+b -a,Tn 0Sx0MF_Sx-Melt+11LeDn_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PUy6\Sx\Melt\0Sx0MF_Sx-Melt+11LeDn_0.hkx
+
+
+
+b -Tn 0Sx0MF_Sx-Offering_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Sx\Offering\0Sx0MF_Sx-Offering_S0_1.hkx
+b -Tn 0Sx0MF_Sx-Offering_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Sx\Offering\0Sx0MF_Sx-Offering_S0_0.hkx
+
+b -Tn,T0S0/0.8 0Sx0MF_Sx-Offering_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Sx\Offering\0Sx0MF_Sx-Offering_S1_1.hkx
+b -Tn 0Sx0MF_Sx-Offering_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Sx\Offering\0Sx0MF_Sx-Offering_S1_0.hkx
+
+b -Tn,T0S0/0.4 0Sx0MF_Sx-Offering_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Sx\Offering\0Sx0MF_Sx-Offering_S2_1.hkx
+b -Tn 0Sx0MF_Sx-Offering_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Sx\Offering\0Sx0MF_Sx-Offering_S2_0.hkx
+
+b -Tn,T0S0/0.3 0Sx0MF_Sx-Offering_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Sx\Offering\0Sx0MF_Sx-Offering_S3_1.hkx
+b -Tn 0Sx0MF_Sx-Offering_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Sx\Offering\0Sx0MF_Sx-Offering_S3_0.hkx
+
+b -Tn,T0S0/0.2 0Sx0MF_Sx-Offering_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Sx\Offering\0Sx0MF_Sx-Offering_S4_1.hkx
+b -Tn 0Sx0MF_Sx-Offering_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Sx\Offering\0Sx0MF_Sx-Offering_S4_0.hkx
+
+b -a,Tn 0Sx0MF_Sx-Offering+11LeUp_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Sx\Offering\0Sx0MF_Sx-Offering+11LeUp_1.hkx
+b -a,Tn 0Sx0MF_Sx-Offering+11LeUp_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6PEy6\Sx\Offering\0Sx0MF_Sx-Offering+11LeUp_0.hkx

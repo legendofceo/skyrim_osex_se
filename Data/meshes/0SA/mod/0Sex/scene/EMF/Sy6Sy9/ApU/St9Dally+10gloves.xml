@@ -1,0 +1,9 @@
+<scene id="EMF|Sy6!Sy9|ApU|St9Dally+10gloves" actors="2" style="OScene">
+<info name="Standing Dally | Dom Gloves Undress" animator="Ceo"/>
+<anim id="0SxEMF_ApU-St9Dally+10gloves" t="T" l="12" dest="0MF|Sy6!Sy9|Ap|St9Dally">
+<mfx a= "0">
+<fx0 ti="8" cmd="ESG_OFF" esg="gloves"/>
+<fx1 ti="8" cmd="ESG_OFF" esg="gloves"/>
+</mfx>
+</anim>
+</scene>

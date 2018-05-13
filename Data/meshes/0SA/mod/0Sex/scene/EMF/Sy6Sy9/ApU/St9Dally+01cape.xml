@@ -1,0 +1,9 @@
+<scene id="EMF|Sy6!Sy9|ApU|St9Dally+01cape" actors="2" style="OScene">
+<info name="Standing Dally | Sub Cape Undress" animator="Ceo"/>
+<anim id="0SxEMF_ApU-St9Dally+01cape" t="T" l="14" dest="0MF|Sy6!Sy9|Ap|St9Dally">
+<mfx a= "1">
+<fx0 ti="11" cmd="ESG_OFF" esg="cape"/>
+<fx1 ti="11" cmd="ESG_OFF" esg="cape"/>
+</mfx>
+</anim>
+</scene>

@@ -1,0 +1,20 @@
+<scene id="0MF|KSy6!KNx3|Ho|KfLeanB45+01SexSpankR" actors="2" style="OScene">
+<info name="Mischeivous, Fondle |+ Right Spank!" animator="Ceo"/>
+<anim id="0Sx0MF_Ho-KfLeanB45+01SexSpankR" t="T" l="2" dest="0MF|KSy6!KNx3|Ho|KfLeanB45">
+<dfx a="0" fx="1"/> 
+<dfx a="1" fx="1"/>
+<mfx a= "1">
+<fx0 ti=".4" cmd="EVNT">
+	<evnt cmd="actor" type="spank" subtype="Spank" drive="intimate" whodid="0" side="L" force="2" sound="slap" soundpow="2" crit="25">
+	<eyes><look v="-100" h="-100" vpan="5" hpan="10"/></eyes>
+	</evnt>
+</fx0>
+<fx1 ti=".4" cmd="EVNT">
+	<evnt cmd="actor" type="spank" subtype="Spank" drive="intimate" whodid="0" side="L" force="2" sound="slap" soundpow="2" crit="25">
+	<eyes><look v="-100" h="-100" vpan="5" hpan="10"/></eyes>
+	</evnt>
+</fx1>
+</mfx>
+<out cmd="leadIntoAnim" id="0Sx0MF_Ho-KfLeanB45"/>
+</anim>
+</scene>

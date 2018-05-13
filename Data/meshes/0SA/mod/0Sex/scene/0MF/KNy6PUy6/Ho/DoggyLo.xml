@@ -1,0 +1,52 @@
+<scene id="0MF|KNy6!PUy6|Ho|DoggyLo" actors="2" style="OScene">
+<info name="Doggystyle, Legs Out | Imminence" animator="Ceo"/>
+<region om="A" maj="D" min="P" stage="" step="" story=""/>
+<anim id="0Sx0MF_Ho-DoggyLo" t="L" l="2"/>
+<nav>
+	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
+		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="oplumpf180_f" go="^+01F180" text="^flipWOver" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="" go="^+01CuLi" text="^straddlePLegs" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="oknlbup_f" iRevX="1" go="^+01SiLa" text="^sitWInYourLap" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="ofdaut_f" go="^+01Bo45" text="^bendWFaceDownRearUp" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="omgsholds2_$G0" go="^+00Po" text="^holdAndStroke">
+			<hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="0"/>
+			</option>
+		</page>
+	</tab>
+	<tab icon="ssub" empty="1"><hue n="hu" cmd="rg" a="1"/></tab>
+</nav>
+<eyes a="0" facerel="2" actionrel="0" bodyrel="1">
+<primary v="-100" h="-20" vpan="10" hpan="10"/>
+<face v="-100" h="-20" vpan="10" hpan="10"/>
+<body v="-100" h="-20" vpan="10" hpan="10"/>
+<action v="-100" h="-20" vpan="10" hpan="10"/>
+<away v="-100" h="-20" vpan="40" hpan="90"/>
+</eyes>	
+<eyes a="1" facerel="2" actionrel="0" bodyrel="1">
+<primary v="-50" h="-100" vpan="15" hpan="5" />
+<face v="-50" h="-100" vpan="15" hpan="5" />
+<body v="-50" h="-100" vpan="15" hpan="5" />
+<action v="-50" h="-100" vpan="15" hpan="5" />
+<away v="-20" h="0" vpan="99" hpan="99" />
+</eyes>
+<motif drive="intimate" theme="Imminence"/>
+<motif drive="intimate" theme="Susceptible"/>
+<autonav>
+<hub b="0MF|KNy6!PUy6|Ho|DoggyLo+01SiLa"/>
+<maj M="0MF|KNy6!PUy6|Ho|DoggyLo+01F180" U="0MF|KNy6!PUy6|Ho|DoggyLo+01CuLi" T="0MF|KNy6!PUy6|Ho|DoggyLo+01CuLi" C="0MF|KNy6!PUy6|Ho|DoggyLo+01CuLi" I="0MF|KNy6!PUy6|Ho|DoggyLo+01CuLi" B="0MF|KNy6!PUy6|Ho|DoggyLo+01CuLi" />
+<min D="0MF|KNy6!PUy6|Ho|DoggyLo+01CuLi" />
+<fam KNy6PEy6="0MF|KNy6!PUy6|Ho|DoggyLo+01Bo45"/>
+<ori Sx="0MF|KNy6!PUy6|Ho|DoggyLo+00Po" Po="0MF|KNy6!PUy6|Ho|DoggyLo+00Po"/>
+</autonav>
+</scene>

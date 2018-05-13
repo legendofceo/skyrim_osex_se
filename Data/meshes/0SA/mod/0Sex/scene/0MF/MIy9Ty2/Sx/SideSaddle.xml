@@ -1,0 +1,65 @@
+<scene id="0MF|MIy9!Ty2|Sx|SideSaddle" actors="2" style="OScene">
+<info name="SideSaddle | Sex" animator="Ceo"/>
+<region om="A" maj="C" min="C" stage="" step="" story=""/>
+<anim id="0Sx0MF_Sx-SideSaddle_S1" t="L" l="2"/>
+<speed a="0" min="0" max="5" name="thrusts">	
+	<menu ub="OT_SyPlus01_BKWH" uo="OT_SyPlus01_BEWH" ux="" ut="bounceWFaster" db="OT_SyMinus01_BKWH" do="OT_SyMinus01_BEWH" dx="" dt="bounceWSlower" dtar0="1"/>
+	<sp mtx="idle" tar="1" type="">
+		<anim id="0Sx0MF_Sx-SideSaddle_S0" t="L" l="2" i0="0" i1="0"/></sp>
+	<sp mtx="bouncesPerSec" qnt=".5">
+		<anim id="0Sx0MF_Sx-SideSaddle_S1" t="L" l="2" i0="1" i1="1">
+		<ae evty="sexThrustR" whodid="0" tar="1" ori="pussy" thrust="cock" sound="assimpact" soundpow="0" imp="ass" impside="R" impforce="2" impdmg=".01" thrustforce="2" oridmg=".01" oriopen=".01"/>
+		</anim>
+		</sp>
+	<sp mtx="bouncesPerSec" qnt="1">
+		<anim id="0Sx0MF_Sx-SideSaddle_S2" t="L" l="2" i0="2" i1="2">
+		<ae evty="sexThrustR" whodid="0" tar="1" ori="pussy" thrust="cock" sound="assimpact" soundpow="0" imp="ass" impside="R" impforce="2" impdmg=".01" thrustforce="2" oridmg=".01" oriopen=".01"/>
+		</anim>
+		</sp>
+	<sp mtx="bouncesPerSec" qnt="1.5">
+		<anim id="0Sx0MF_Sx-SideSaddle_S3" t="L" l="2" i0="3" i1="3">
+		<ae evty="sexThrustR" whodid="0" tar="1" ori="pussy" thrust="cock" sound="assimpact" soundpow="0" imp="ass" impside="R" impforce="2" impdmg=".01" thrustforce="2" oridmg=".01" oriopen=".01"/>
+		</anim>
+		</sp>
+	<sp mtx="bouncesPerSec" qnt="2.5">
+		<anim id="0Sx0MF_Sx-SideSaddle_S4" t="L" l="2" i0="4" i1="4">
+		<ae evty="sexThrustR" whodid="0" tar="1" ori="pussy" thrust="cock" sound="assimpact" soundpow="0" imp="ass" impside="R" impforce="2" impdmg=".01" thrustforce="2" oridmg=".01" oriopen=".01"/>
+		</anim>
+		</sp>
+	<sp mtx="bouncesPerSec" qnt="3">
+		<anim id="0Sx0MF_Sx-SideSaddle_S5" t="L" l="2" i0="4" i1="4">
+		<ae evty="sexThrustR" whodid="0" tar="1" ori="pussy" thrust="cock" sound="assimpact" soundpow="0" imp="ass" impside="R" impforce="2" impdmg=".01" thrustforce="2" oridmg=".01" oriopen=".01"/>
+		</anim>
+		</sp>
+</speed>
+<nav style="NP1">
+<actor a="0" t="A1" t="S" b="sgo_dom_ic">
+	<xmenu cmd="speed"/>
+	<page g="G1" t="M" b="m_tri_op">
+		<bt t="A" b="oba_a_bw" h="h_maj_ic" i="">
+			<n dest="0MF|MIy9!Ty2|Sx|SideSaddle+01T90xwKn" desc="turnWTowardsYou" dtar0="1"/></bt>	
+		<bt t="A" b="oba_a_bw" h="h_maj_ic" i="">
+			<n dest="0MF|MIy9!Ty2|Sx|SideSaddle+01T90cw" desc="turnWAway" dtar0="1"/></bt>
+	</page>
+</actor>	
+</nav>
+<eyes a="0" facerel="0" actionrel="2" bodyrel="1">
+<primary v="-80" h="0" vpan="10" hpan="10"/>
+<face v="-80" h="0" vpan="10" hpan="10"/>
+<body v="-80" h="0" vpan="10" hpan="10"/>
+<action v="-80" h="0" vpan="10" hpan="10"/>
+<away v="-20" h="0" vpan="99" hpan="90"/>
+</eyes>	
+<eyes a="1" facerel="0" actionrel="2" bodyrel="0">
+<primary v="-100" h="0" vpan="15" hpan="10" />
+<face v="-100" h="0" vpan="15" hpan="10" />
+<body v="-100" h="0" vpan="15" hpan="10" />
+<action v="-100" h="0" vpan="15" hpan="10" />
+<away v="0" h="0" vpan="90" hpan="90" />
+</eyes>
+<motif drive="intimate" theme="G_SexPhysRear"/>
+<motif drive="intimate" theme="R_SexPhysRear"/>
+<autonav>
+<hub b="0MF|MIy9!Ty2|Sx|SideSaddle+01Hax"/>
+</autonav>
+</scene>

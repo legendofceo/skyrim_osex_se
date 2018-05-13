@@ -1,0 +1,205 @@
+<scene id="0MF|Sy6!Sy9|Ap|St9Dally+01WzHvt" actors="2" style="OScene">
+<info name="Standing Dally |+ Hands on" animator="Ceo"/>
+<anim id="0SxWZH0_Ap-St9Dally+01WzHvt" t="T" l="22" dest="WZH0|Sy6!Hv9y9|Ap|LoneAngel">
+<dfx a= "0">
+</dfx>
+
+<mfx a="0">
+<fx0 ti="1.5" cmd="SAY" fo="wvo" ty="build" sy="0" nolock="true"/>
+<fx1 ti="1.5" cmd="SAY" fo="wvo" ty="build" sy="0" nolock="true"/>
+
+<fx0 ti="2.75" cmd="SAY" fo="wvo" ty="build" sy="0" nolock="true"/>
+<fx1 ti="2.75" cmd="SAY" fo="wvo" ty="build" sy="0" nolock="true"/>
+
+<fx0 ti="3.8" cmd="SAY" fo="wvo" ty="release" sy="0" nolock="true"/>
+<fx1 ti="3.8" cmd="SAY" fo="wvo" ty="release" sy="0" nolock="true"/>
+
+
+<fx0 ti="18.8" cmd="SAY" fo="wvo" ty="release" sy="0" nolock="true"/>
+<fx1 ti="18.8" cmd="SAY" fo="wvo" ty="release" sy="0" nolock="true"/>
+
+
+
+<fx0 ti="3.5" cmd="CAST">
+	<cast id="demi" ty="single" sy="1" cast="0" targ="1">
+		<cnode id="NPC Pelvis [Pelv]" per="100"/>
+		<tnode id="NPC Head [Head]" per="100"/>
+	</cast>
+</fx0>
+
+<fx1 ti="3.5" cmd="CAST">
+	<cast id="demi" ty="single" sy="1" cast="0" targ="1">
+		<cnode id="NPC Pelvis [Pelv]" per="100"/>
+		<tnode id="NPC Head [Head]" per="100"/>
+	</cast>
+</fx1>
+
+
+
+<fx0 ti="4" cmd="CAST">
+	<cast id="float" ty="single" sy="0" cast="0" targ="0">
+		<cnode id="NPC L Hand [LHnd]" per="100"/>
+		<tnode id="AnimObjectA" per="100"/>
+	</cast>
+</fx0>
+<fx1 ti="4" cmd="CAST">
+	<cast id="float" ty="single" sy="0" cast="0" targ="0">
+		<cnode id="NPC L Hand [LHnd]" per="100"/>
+		<tnode id="AnimObjectA" per="100"/>
+	</cast>
+</fx1>
+
+<fx0 ti="4" cmd="CAST">
+	<cast id="float" ty="single" sy="0" cast="0" targ="0">
+		<cnode id="NPC R Hand [RHnd]" per="100"/>
+		<tnode id="AnimObjectB" per="100"/>
+	</cast>
+</fx0>
+<fx1 ti="4" cmd="CAST">
+	<cast id="float" ty="single" sy="0" cast="0" targ="0">
+		<cnode id="NPC R Hand [RHnd]" per="100"/>
+		<tnode id="AnimObjectB" per="100"/>
+	</cast>
+</fx1>
+
+<fx0 ti="4.1" cmd="CAST">
+	<cast id="float" ty="single" sy="0" cast="0" targ="0">
+		<cnode id="NPC L Hand [LHnd]" per="100"/>
+		<tnode id="AnimObjectA" per="100"/>
+	</cast>
+</fx0>
+<fx1 ti="4.1" cmd="CAST">
+	<cast id="float" ty="single" sy="0" cast="0" targ="0">
+		<cnode id="NPC L Hand [LHnd]" per="100"/>
+		<tnode id="AnimObjectA" per="100"/>
+	</cast>
+</fx1>
+
+<fx0 ti="4.2" cmd="CAST">
+	<cast id="float" ty="single" sy="0" cast="0" targ="0">
+		<cnode id="NPC R Hand [RHnd]" per="100"/>
+		<tnode id="AnimObjectB" per="100"/>
+	</cast>
+</fx0>
+<fx1 ti="4.2" cmd="CAST">
+	<cast id="float" ty="single" sy="0" cast="0" targ="0">
+		<cnode id="NPC R Hand [RHnd]" per="100"/>
+		<tnode id="AnimObjectB" per="100"/>
+	</cast>
+</fx1>
+
+<fx0 ti="4.35" cmd="CAST">
+	<cast id="float" ty="single" sy="0" cast="0" targ="0">
+		<cnode id="NPC L Hand [LHnd]" per="100"/>
+		<tnode id="AnimObjectA" per="100"/>
+	</cast>
+</fx0>
+<fx1 ti="4.35" cmd="CAST">
+	<cast id="float" ty="single" sy="0" cast="0" targ="0">
+		<cnode id="NPC L Hand [LHnd]" per="100"/>
+		<tnode id="AnimObjectA" per="100"/>
+	</cast>
+</fx1>
+
+<fx0 ti="4.3" cmd="CAST">
+	<cast id="float" ty="single" sy="0" cast="0" targ="0">
+		<cnode id="NPC R Hand [RHnd]" per="100"/>
+		<tnode id="AnimObjectB" per="100"/>
+	</cast>
+</fx0>
+<fx1 ti="4.3" cmd="CAST">
+	<cast id="float" ty="single" sy="0" cast="0" targ="0">
+		<cnode id="NPC R Hand [RHnd]" per="100"/>
+		<tnode id="AnimObjectB" per="100"/>
+	</cast>
+</fx1>
+
+<fx0 ti="4.4" cmd="CAST">
+	<cast id="float" ty="single" sy="0" cast="0" targ="0">
+		<cnode id="NPC L Hand [LHnd]" per="100"/>
+		<tnode id="AnimObjectA" per="100"/>
+	</cast>
+</fx0>
+<fx1 ti="4.4" cmd="CAST">
+	<cast id="float" ty="single" sy="0" cast="0" targ="0">
+		<cnode id="NPC L Hand [LHnd]" per="100"/>
+		<tnode id="AnimObjectA" per="100"/>
+	</cast>
+</fx1>
+
+<fx0 ti="4.42" cmd="CAST">
+	<cast id="float" ty="single" sy="0" cast="0" targ="0">
+		<cnode id="NPC R Hand [RHnd]" per="100"/>
+		<tnode id="AnimObjectB" per="100"/>
+	</cast>
+</fx0>
+<fx1 ti="4.42" cmd="CAST">
+	<cast id="float" ty="single" sy="0" cast="0" targ="0">
+		<cnode id="NPC R Hand [RHnd]" per="100"/>
+		<tnode id="AnimObjectB" per="100"/>
+	</cast>
+</fx1>
+
+
+<fx0 ti="11.2" cmd="CAST">
+	<cast id="telekinesis" ty="single" sy="0" cast="0" targ="1">
+		<cnode id="NPC L Hand [LHnd]" per="100"/>
+		<tnode id="NPC L Calf [LClf]" per="100"/>
+	</cast>
+</fx0>
+<fx1 ti="11.2" cmd="CAST">
+	<cast id="telekinesis" ty="single" sy="0" cast="0" targ="1">
+		<cnode id="NPC L Hand [LHnd]" per="100"/>
+		<tnode id="NPC L Calf [LClf]" per="100"/>
+	</cast>
+</fx1>
+
+
+
+<fx0 ti="13.1" cmd="CAST">
+	<cast id="telekinesis" ty="single" sy="0" cast="0" targ="1">
+		<cnode id="NPC R MagicNode [RMag]" per="100"/>
+		<tnode id="NPC R Foot [Rft ]f]" per="100"/>
+	</cast>
+</fx0>
+<fx1 ti="13.1" cmd="CAST">
+	<cast id="telekinesis" ty="single" sy="0" cast="0" targ="1">
+		<cnode id="NPC R MagicNode [RMag]" per="100"/>
+		<tnode id="NPC R Foot [Rft ]" per="100"/>
+	</cast>
+</fx1>
+
+
+<fx0 ti="18.5" cmd="CAST">
+	<cast id="demi" ty="single" sy="0" cast="0" targ="1">
+		<cnode id="NPC Pelvis [Pelv]" per="100"/>
+		<tnode id="NPC R Butt" per="100"/>
+	</cast>
+</fx0>
+
+<fx1 ti="18.5" cmd="CAST">
+	<cast id="demi" ty="single" sy="0" cast="0" targ="1">
+		<cnode id="NPC Pelvis [Pelv]" per="100"/>
+		<tnode id="NPC R Butt" per="100"/>
+	</cast>
+</fx1>
+
+</mfx>
+
+<cfx ti="3" cmd="RUMBLE" am="1" dur="1" range="1600"/>
+<cfx ti="4" cmd="RUMBLE" am="1" dur="1" range="1600"/>
+<cfx ti="5" cmd="RUMBLE" am="1" dur="1" range="1600"/>
+
+<cfx ti="2" cmd="AUDIO" lib="OCinema" section="magic" sound="Amb_DeepPowerSwell"/>
+<cfx ti="4" cmd="AUDIO" lib="OCinema" section="drama" sound="Tran_EnterTitanMaj"/>
+
+<cfx ti="10" cmd="AUDIO" lib="OCinema" section="drama" sound="Drum_Bg_Big_10s"/>
+<cfx ti="19" cmd="AUDIO" lib="OCinema" section="drama" sound="Drum_DeepGong"/>
+
+</anim>
+<nodekey ground="AnimObjectB"/>
+<nodekey ground="AnimObjectB"/>
+
+<buff cast="0" targ="1" id="float" delay="9"/>
+
+</scene>

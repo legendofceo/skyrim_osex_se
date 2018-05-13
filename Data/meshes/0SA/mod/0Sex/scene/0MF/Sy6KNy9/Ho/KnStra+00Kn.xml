@@ -1,0 +1,7 @@
+<scene id="0MF|Sy6!KNy9|Ho|KnStra+00Kn" actors="2" style="OScene">
+<info name="Kneeling Straight |+ Kneel" animator="Ceo"/>
+<anim id="0Sx0MF_Ho-KnStra+00Kn" t="T" l="2" dest="0MF|KNy6!KNy9|Ho|KnAdore">
+<dfx a="0" fx="1"/>
+<dfx a="1" fx="1"/>
+</anim>
+</scene>

@@ -1,0 +1,20 @@
+<scene id="0MF|Sy6!Sy6|Ho|St6Pop+01SexSpankR" actors="2" style="OScene">
+<info name="Suspicious Fondle |+ Playful Spank!" animator="Ceo"/>
+<anim id="0Sx0MF_Ho-St6Pop+01SexSpankR" t="T" l="2.0" dest="0MF|Sy6!Sy6|Ho|St6Pop">
+<dfx a= "0">
+</dfx>
+<mfx a= "1">
+<fx0 ti=".5" cmd="EVNT">
+	<evnt cmd="actor" type="spank" subtype="Spank" drive="intimate" whodid="0" side="L" force="2" sound="slap" soundpow="2" crit="25">
+	<eyes><look v="-95" h="-90" vpan="5" hpan="10"/></eyes>
+	</evnt>
+</fx0>
+<fx1 ti=".5" cmd="EVNT">
+	<evnt cmd="actor" type="spank" subtype="Spank" drive="intimate" whodid="0" side="L" force="2" sound="slap" soundpow="2" crit="25">
+	<eyes><look v="-95" h="-90" vpan="5" hpan="10"/></eyes>
+	</evnt>
+</fx1>
+</mfx>
+<out cmd="leadIntoAnim" id="0Sx0MF_Ho-St6Pop"/>
+</anim>
+</scene>

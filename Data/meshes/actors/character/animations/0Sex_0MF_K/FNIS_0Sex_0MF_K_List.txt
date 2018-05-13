@@ -1,0 +1,622 @@
+'¦¦+  ¦¦+¦¦+   ¦¦+ ¦¦¦¦¦¦+               ¦¦+  ¦¦+¦¦+   ¦¦+ ¦¦¦¦¦¦+                                                                                                    
+'¦¦¦ ¦¦+++¦¦+ ¦¦++¦¦+----+     _ ¦¦+_    ¦¦¦ ¦¦+++¦¦+ ¦¦++¦¦+----+                                                                                                    
+'¦¦¦¦¦++  +¦¦¦¦++ ¦¦¦¦¦¦¦+      ¦¦¦¦+    ¦¦¦¦¦++  +¦¦¦¦++ ¦¦¦¦¦¦¦+                                                                                                    
+'¦¦+-¦¦+   +¦¦++  ¦¦+---¦¦+    ¯+¦¦+¯    ¦¦+-¦¦+   +¦¦++  ¦¦+---¦¦+                                                                                                   
+'¦¦¦  ¦¦+   ¦¦¦   +¦¦¦¦¦¦++      +-+     ¦¦¦  ¦¦+   ¦¦¦   +¦¦¦¦¦¦++                                                                                                   
+'+-+  +-+   +-+    +-----+               +-+  +-+   +-+    +-----+   
+
+b -Tn 0Sx0MF_Ho-KnLap_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNy6\Ho\KnLap\0Sx0MF_Ho-KnLap_1.hkx
+b -Tn 0Sx0MF_Ho-KnLap_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNy6\Ho\KnLap\0Sx0MF_Ho-KnLap_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KnLap+01OffX_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNy6\Ho\KnLap\0Sx0MF_Ho-KnLap+01OffX_1.hkx
+b -a,Tn 0Sx0MF_Ho-KnLap+01OffX_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNy6\Ho\KnLap\0Sx0MF_Ho-KnLap+01OffX_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KnLap+01OffY_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNy6\Ho\KnLap\0Sx0MF_Ho-KnLap+01OffY_1.hkx
+b -a,Tn 0Sx0MF_Ho-KnLap+01OffY_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNy6\Ho\KnLap\0Sx0MF_Ho-KnLap+01OffY_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KnLap+01BoDo_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNy6\Ho\KnLap\0Sx0MF_Ho-KnLap+01BoDo_1.hkx
+b -a,Tn 0Sx0MF_Ho-KnLap+01BoDo_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNy6\Ho\KnLap\0Sx0MF_Ho-KnLap+01BoDo_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KnLap+01SiKe_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNy6\Ho\KnLap\0Sx0MF_Ho-KnLap+01SiKe_1.hkx
+b -a,Tn 0Sx0MF_Ho-KnLap+01SiKe_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNy6\Ho\KnLap\0Sx0MF_Ho-KnLap+01SiKe_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KnLap+01T180_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNy6\Ho\KnLap\0Sx0MF_Ho-KnLap+01T180_1.hkx
+b -a,Tn 0Sx0MF_Ho-KnLap+01T180_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNy6\Ho\KnLap\0Sx0MF_Ho-KnLap+01T180_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KnLap+11StPop_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNy6\Ho\KnLap\0Sx0MF_Ho-KnLap+11StPop_1.hkx
+b -a,Tn 0Sx0MF_Ho-KnLap+11StPop_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNy6\Ho\KnLap\0Sx0MF_Ho-KnLap+11StPop_0.hkx
+
+
+
+
+b -Tn 0Sx0MF_Ap-KnLapAp_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNy6\Ap\KnLapAp\0Sx0MF_Ap-KnLapAp_1.hkx
+b -Tn 0Sx0MF_Ap-KnLapAp_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNy6\Ap\KnLapAp\0Sx0MF_Ap-KnLapAp_0.hkx
+
+b -a,Tn 0Sx0MF_Ap-KnLapAp+01Ho_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNy6\Ap\KnLapAp\0Sx0MF_Ap-KnLapAp+01Ho_1.hkx
+b -a,Tn 0Sx0MF_Ap-KnLapAp+01Ho_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNy6\Ap\KnLapAp\0Sx0MF_Ap-KnLapAp+01Ho_0.hkx
+
+
+
+
+
+
+
+
+
+b -Tn 0Sx0MF_Ho-KfDaddy_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KFy6TKy3\Ho\KfDaddy\0Sx0MF_Ho-KfDaddy_1.hkx
+b -Tn 0Sx0MF_Ho-KfDaddy_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KFy6TKy3\Ho\KfDaddy\0Sx0MF_Ho-KfDaddy_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KfDaddy+01Spr_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KFy6TKy3\Ho\KfDaddy\0Sx0MF_Ho-KfDaddy+01Spr_1.hkx
+b -a,Tn 0Sx0MF_Ho-KfDaddy+01Spr_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KFy6TKy3\Ho\KfDaddy\0Sx0MF_Ho-KfDaddy+01Spr_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KfDaddy+01SiLa_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KFy6TKy3\Ho\KfDaddy\0Sx0MF_Ho-KfDaddy+01SiLa_1.hkx
+b -a,Tn 0Sx0MF_Ho-KfDaddy+01SiLa_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KFy6TKy3\Ho\KfDaddy\0Sx0MF_Ho-KfDaddy+01SiLa_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KfDaddy+01Up2LU_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KFy6TKy3\Ho\KfDaddy\0Sx0MF_Ho-KfDaddy+01Up2LU_1.hkx
+b -a,Tn 0Sx0MF_Ho-KfDaddy+01Up2LU_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KFy6TKy3\Ho\KfDaddy\0Sx0MF_Ho-KfDaddy+01Up2LU_0.hkx
+
+
+b -Tn 0Sx0MF_Ho-KfExam_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KFy6TKy3\Ho\KfExam\0Sx0MF_Ho-KfExam_1.hkx
+b -Tn 0Sx0MF_Ho-KfExam_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KFy6TKy3\Ho\KfExam\0Sx0MF_Ho-KfExam_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KfExam+01Spx_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KFy6TKy3\Ho\KfExam\0Sx0MF_Ho-KfExam+01Spx_1.hkx
+b -a,Tn 0Sx0MF_Ho-KfExam+01Spx_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KFy6TKy3\Ho\KfExam\0Sx0MF_Ho-KfExam+01Spx_0.hkx
+
+
+'¦¦+  ¦¦+¦¦+   ¦¦+ ¦¦¦¦¦¦+               ¦¦+  ¦¦+¦¦+  ¦¦+ ¦¦¦¦¦¦+                                                                                                     
+'¦¦¦ ¦¦+++¦¦+ ¦¦++¦¦+----+     _ ¦¦+_    ¦¦¦ ¦¦+++¦¦+¦¦++¦¦+----+                                                                                                     
+'¦¦¦¦¦++  +¦¦¦¦++ ¦¦¦¦¦¦¦+      ¦¦¦¦+    ¦¦¦¦¦++  +¦¦¦++ ¦¦¦¦¦¦¦+                                                                                                     
+'¦¦+-¦¦+   +¦¦++  ¦¦+---¦¦+    ¯+¦¦+¯    ¦¦+-¦¦+  ¦¦+¦¦+ ¦¦+---¦¦+                                                                                                    
+'¦¦¦  ¦¦+   ¦¦¦   +¦¦¦¦¦¦++      +-+     ¦¦¦  ¦¦+¦¦++ ¦¦++¦¦¦¦¦¦++                                                                                                    
+'+-+  +-+   +-+    +-----+               +-+  +-++-+  +-+ +-----+    
+
+
+
+b -Tn 0Sx0MF_Ho-KnSide_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNx6\Ho\KnSide\0Sx0MF_Ho-KnSide_1.hkx
+b -Tn 0Sx0MF_Ho-KnSide_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNx6\Ho\KnSide\0Sx0MF_Ho-KnSide_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KnSide+01EaKe_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNx6\Ho\KnSide\0Sx0MF_Ho-KnSide+01EaKe_1.hkx
+b -a,Tn 0Sx0MF_Ho-KnSide+01EaKe_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNx6\Ho\KnSide\0Sx0MF_Ho-KnSide+01EaKe_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KnSide+01SiLa_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNx6\Ho\KnSide\0Sx0MF_Ho-KnSide+01SiLa_1.hkx
+b -a,Tn 0Sx0MF_Ho-KnSide+01SiLa_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNx6\Ho\KnSide\0Sx0MF_Ho-KnSide+01SiLa_0.hkx
+
+
+
+
+
+
+
+
+
+
+
+
+b -Tn 0Sx0MF_Ho-KfLean_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6KNx3\Ho\KfLean\0Sx0MF_Ho-KfLean_1.hkx
+b -Tn 0Sx0MF_Ho-KfLean_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6KNx3\Ho\KfLean\0Sx0MF_Ho-KfLean_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KfLean+01Es_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6KNx3\Ho\KfLean\0Sx0MF_Ho-KfLean+01Es_1.hkx
+b -a,Tn 0Sx0MF_Ho-KfLean+01Es_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6KNx3\Ho\KfLean\0Sx0MF_Ho-KfLean+01Es_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KfLean+01Bo45_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6KNx3\Ho\KfLean\0Sx0MF_Ho-KfLean+01Bo45_1.hkx
+b -a,Tn 0Sx0MF_Ho-KfLean+01Bo45_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6KNx3\Ho\KfLean\0Sx0MF_Ho-KfLean+01Bo45_0.hkx
+
+
+b -Tn 0Sx0MF_Ho-KfLeanB45_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6KNx3\Ho\KfLeanB45\0Sx0MF_Ho-KfLeanB45_1.hkx
+b -Tn 0Sx0MF_Ho-KfLeanB45_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6KNx3\Ho\KfLeanB45\0Sx0MF_Ho-KfLeanB45_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KfLeanB45+01Es45_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6KNx3\Ho\KfLeanB45\0Sx0MF_Ho-KfLeanB45+01Es45_1.hkx
+b -a,Tn 0Sx0MF_Ho-KfLeanB45+01Es45_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6KNx3\Ho\KfLeanB45\0Sx0MF_Ho-KfLeanB45+01Es45_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KfLeanB45+01BoDo_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6KNx3\Ho\KfLeanB45\0Sx0MF_Ho-KfLeanB45+01BoDo_1.hkx
+b -a,Tn 0Sx0MF_Ho-KfLeanB45+01BoDo_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6KNx3\Ho\KfLeanB45\0Sx0MF_Ho-KfLeanB45+01BoDo_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KfLeanB45+01SexSpankL_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6KNx3\Ho\KfLeanB45\0Sx0MF_Ho-KfLeanB45+01SexSpankL_1.hkx
+b -a,Tn 0Sx0MF_Ho-KfLeanB45+01SexSpankL_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6KNx3\Ho\KfLeanB45\0Sx0MF_Ho-KfLeanB45+01SexSpankL_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KfLeanB45+01SexSpankR_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6KNx3\Ho\KfLeanB45\0Sx0MF_Ho-KfLeanB45+01SexSpankR_1.hkx
+b -a,Tn 0Sx0MF_Ho-KfLeanB45+01SexSpankR_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6KNx3\Ho\KfLeanB45\0Sx0MF_Ho-KfLeanB45+01SexSpankR_0.hkx
+
+
+
+b -Tn 0Sx0MF_Ho-KfBoke_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfBoke\0Sx0MF_Ho-KfBoke_1.hkx
+b -Tn 0Sx0MF_Ho-KfBoke_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfBoke\0Sx0MF_Ho-KfBoke_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KfBoke+01Es45_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfBoke\0Sx0MF_Ho-KfBoke+01Es45_1.hkx
+b -a,Tn 0Sx0MF_Ho-KfBoke+01Es45_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfBoke\0Sx0MF_Ho-KfBoke+01Es45_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KfBoke+01SexSpankL_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfBoke\0Sx0MF_Ho-KfBoke+01SexSpankL_1.hkx
+b -a,Tn 0Sx0MF_Ho-KfBoke+01SexSpankL_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfBoke\0Sx0MF_Ho-KfBoke+01SexSpankL_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KfBoke+01SexSpankR_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfBoke\0Sx0MF_Ho-KfBoke+01SexSpankR_1.hkx
+b -a,Tn 0Sx0MF_Ho-KfBoke+01SexSpankR_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfBoke\0Sx0MF_Ho-KfBoke+01SexSpankR_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KfBoke+01Pr_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfBoke\0Sx0MF_Ho-KfBoke+01Pr_1.hkx
+b -a,Tn 0Sx0MF_Ho-KfBoke+01Pr_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfBoke\0Sx0MF_Ho-KfBoke+01Pr_0.hkx
+
+
+
+b -Tn 0Sx0MF_Ho-KfBokePr_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfBokePr\0Sx0MF_Ho-KfBokePr_1.hkx
+b -Tn 0Sx0MF_Ho-KfBokePr_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfBokePr\0Sx0MF_Ho-KfBokePr_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KfBokePr+01Px_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfBokePr\0Sx0MF_Ho-KfBokePr+01Px_1.hkx
+b -a,Tn 0Sx0MF_Ho-KfBokePr+01Px_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfBokePr\0Sx0MF_Ho-KfBokePr+01Px_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KfBokePr+01Caboo_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfBokePr\0Sx0MF_Ho-KfBokePr+01Caboo_1.hkx
+b -a,Tn 0Sx0MF_Ho-KfBokePr+01Caboo_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfBokePr\0Sx0MF_Ho-KfBokePr+01Caboo_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KfBokePR+01SexSpankL_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfBokePR\0Sx0MF_Ho-KfBokePR+01SexSpankL_1.hkx
+b -a,Tn 0Sx0MF_Ho-KfBokePR+01SexSpankL_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfBokePR\0Sx0MF_Ho-KfBokePR+01SexSpankL_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KfBokePR+01SexSpankR_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfBokePR\0Sx0MF_Ho-KfBokePR+01SexSpankR_1.hkx
+b -a,Tn 0Sx0MF_Ho-KfBokePR+01SexSpankR_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfBokePR\0Sx0MF_Ho-KfBokePR+01SexSpankR_0.hkx
+
+
+
+b -Tn 0Sx0MF_Ho-KfCaboose_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfCaboose\0Sx0MF_Ho-KfCaboose_1.hkx
+b -Tn 0Sx0MF_Ho-KfCaboose_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfCaboose\0Sx0MF_Ho-KfCaboose_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KfCaboose+01Sup_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfCaboose\0Sx0MF_Ho-KfCaboose+01Sup_1.hkx
+b -a,Tn 0Sx0MF_Ho-KfCaboose+01Sup_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfCaboose\0Sx0MF_Ho-KfCaboose+01Sup_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KfCaboose+01Pr_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfCaboose\0Sx0MF_Ho-KfCaboose+01Pr_1.hkx
+b -a,Tn 0Sx0MF_Ho-KfCaboose+01Pr_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfCaboose\0Sx0MF_Ho-KfCaboose+01Pr_0.hkx
+
+
+b -Tn 0Sx0MF_Ho-KfCaboosePr_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfCaboosePr\0Sx0MF_Ho-KfCaboosePr_1.hkx
+b -Tn 0Sx0MF_Ho-KfCaboosePr_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfCaboosePr\0Sx0MF_Ho-KfCaboosePr_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KfCaboosePr+01Px_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfCaboosePr\0Sx0MF_Ho-KfCaboosePr+01Px_1.hkx
+b -a,Tn 0Sx0MF_Ho-KfCaboosePr+01Px_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KSy6DOx3\Ho\KfCaboosePr\0Sx0MF_Ho-KfCaboosePr+01Px_0.hkx
+
+
+
+
+'¦¦+  ¦¦+¦¦+   ¦¦+ ¦¦¦¦¦¦+               ¦¦+  ¦¦+¦¦+   ¦¦+ ¦¦¦¦¦+                                                                                                     
+'¦¦¦ ¦¦+++¦¦+ ¦¦++¦¦+----+     _ ¦¦+_    ¦¦¦ ¦¦+++¦¦+ ¦¦++¦¦+--¦¦+                                                                                                    
+'¦¦¦¦¦++  +¦¦¦¦++ ¦¦¦¦¦¦¦+      ¦¦¦¦+    ¦¦¦¦¦++  +¦¦¦¦++ +¦¦¦¦¦¦¦                                                                                                    
+'¦¦+-¦¦+   +¦¦++  ¦¦+---¦¦+    ¯+¦¦+¯    ¦¦+-¦¦+   +¦¦++   +---¦¦¦                                                                                                    
+'¦¦¦  ¦¦+   ¦¦¦   +¦¦¦¦¦¦++      +-+     ¦¦¦  ¦¦+   ¦¦¦    ¦¦¦¦¦++                                                                                                    
+'+-+  +-+   +-+    +-----+               +-+  +-+   +-+    +----+                                                                                                     
+'¦¦¦¦¦+¦¦¦¦¦+¦¦¦¦¦+¦¦¦¦¦+¦¦¦¦¦+¦¦¦¦¦+¦¦¦¦¦+¦¦¦¦¦+¦¦¦¦¦+¦¦¦¦¦+¦¦¦¦¦+                                                                                                   
+'+----++----++----++----++----++----++----++----++----++----++----+  
+
+'¦¦+  ¦¦+¦¦¦+   ¦¦+        ¦¦¦¦¦+ ¦¦¦¦¦¦+  ¦¦¦¦¦¦+ ¦¦¦¦¦¦+ ¦¦¦¦¦¦¦+                                                                                                   
+'¦¦¦ ¦¦++¦¦¦¦+  ¦¦¦       ¦¦+--¦¦+¦¦+--¦¦+¦¦+---¦¦+¦¦+--¦¦+¦¦+----+                                                                                                   
+'¦¦¦¦¦++ ¦¦+¦¦+ ¦¦¦       ¦¦¦¦¦¦¦¦¦¦¦  ¦¦¦¦¦¦   ¦¦¦¦¦¦¦¦¦++¦¦¦¦¦+                                                                                                     
+'¦¦+-¦¦+ ¦¦¦+¦¦+¦¦¦       ¦¦+--¦¦¦¦¦¦  ¦¦¦¦¦¦   ¦¦¦¦¦+--¦¦+¦¦+--+                                                                                                     
+'¦¦¦  ¦¦+¦¦¦ +¦¦¦¦¦¦¦+    ¦¦¦  ¦¦¦¦¦¦¦¦¦+++¦¦¦¦¦¦++¦¦¦  ¦¦¦¦¦¦¦¦¦¦+                                                                                                   
+'+-+  +-++-+  +---++-+    +-+  +-++-----+  +-----+ +-+  +-++------+
+
+
+b -Tn 0Sx0MF_Ho-KnAdore_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNy9\Ho\KnAdore\0Sx0MF_Ho-KnAdore_1.hkx
+b -Tn 0Sx0MF_Ho-KnAdore_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNy9\Ho\KnAdore\0Sx0MF_Ho-KnAdore_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KnAdore+00St_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNy9\Ho\KnAdore\0Sx0MF_Ho-KnAdore+00St_1.hkx
+b -a,Tn 0Sx0MF_Ho-KnAdore+00St_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNy9\Ho\KnAdore\0Sx0MF_Ho-KnAdore+00St_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KnAdore+01T180_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNy9\Ho\KnAdore\0Sx0MF_Ho-KnAdore+01T180_1.hkx
+b -a,Tn 0Sx0MF_Ho-KnAdore+01T180_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\KNy6KNy9\Ho\KnAdore\0Sx0MF_Ho-KnAdore+01T180_0.hkx
+
+
+
+'¦¦¦¦¦¦¦+¦¦+   ¦¦+ ¦¦¦¦¦¦+               ¦¦+  ¦¦+¦¦+   ¦¦+ ¦¦¦¦¦+                                                                                                     
+'¦¦+----++¦¦+ ¦¦++¦¦+----+     _ ¦¦+_    ¦¦¦ ¦¦+++¦¦+ ¦¦++¦¦+--¦¦+                                                                                                    
+'¦¦¦¦¦¦¦+ +¦¦¦¦++ ¦¦¦¦¦¦¦+      ¦¦¦¦+    ¦¦¦¦¦++  +¦¦¦¦++ +¦¦¦¦¦¦¦                                                                                                    
+'+----¦¦¦  +¦¦++  ¦¦+---¦¦+    ¯+¦¦+¯    ¦¦+-¦¦+   +¦¦++   +---¦¦¦                                                                                                    
+'¦¦¦¦¦¦¦¦   ¦¦¦   +¦¦¦¦¦¦++      +-+     ¦¦¦  ¦¦+   ¦¦¦    ¦¦¦¦¦++                                                                                                    
+'+------+   +-+    +-----+               +-+  +-+   +-+    +----+                                                                                                     
+'¦¦¦¦¦+¦¦¦¦¦+¦¦¦¦¦+¦¦¦¦¦+¦¦¦¦¦+¦¦¦¦¦+¦¦¦¦¦+¦¦¦¦¦+¦¦¦¦¦+¦¦¦¦¦+¦¦¦¦¦+                                                                                                   
+'+----++----++----++----++----++----++----++----++----++----++----+ 
+
+
+'      ¦¦+      ¦¦+  ¦¦+¦¦¦¦¦¦+                                                                                                                                       
+'      +¦¦+     ¦¦¦  ¦¦¦¦¦+--¦¦+                                                                                                                                      
+'¦¦¦¦¦+ +¦¦+    ¦¦¦¦¦¦¦¦¦¦¦  ¦¦¦                                                                                                                                      
+'+----+ ¦¦++    ¦¦+--¦¦¦¦¦¦  ¦¦¦                                                                                                                                      
+'      ¦¦++     ¦¦¦  ¦¦¦¦¦¦¦¦¦++                                                                                                                                      
+'      +-+      +-+  +-++-----+       
+
+
+
+
+'¦¦+  ¦¦+¦¦¦+   ¦¦+       ¦¦¦¦¦¦+ ¦¦¦¦¦¦¦+¦¦+   ¦¦+¦¦¦¦¦¦¦+                                                                                                           
+'¦¦¦ ¦¦++¦¦¦¦+  ¦¦¦       ¦¦+--¦¦+¦¦+----+¦¦¦   ¦¦¦¦¦+----+                                                                                                           
+'¦¦¦¦¦++ ¦¦+¦¦+ ¦¦¦       ¦¦¦¦¦¦++¦¦¦¦¦+  ¦¦¦   ¦¦¦¦¦¦¦¦+                                                                                                             
+'¦¦+-¦¦+ ¦¦¦+¦¦+¦¦¦       ¦¦+--¦¦+¦¦+--+  +¦¦+ ¦¦++¦¦+--+                                                                                                             
+'¦¦¦  ¦¦+¦¦¦ +¦¦¦¦¦¦¦+    ¦¦¦  ¦¦¦¦¦¦¦¦¦¦+ +¦¦¦¦++ ¦¦¦¦¦¦¦+                                                                                                           
+'+-+  +-++-+  +---++-+    +-+  +-++------+  +---+  +------+   
+
+b -Tn 0Sx0MF_Ho-KaReve_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\Ho\KaReve\0Sx0MF_Ho-KaReve_1.hkx
+b -Tn 0Sx0MF_Ho-KaReve_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\Ho\KaReve\0Sx0MF_Ho-KaReve_0.hkx
+
+
+
+b -a,Tn 0Sx0MF_Ho-KaReve+10Ap_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\Ho\KaReve\0Sx0MF_Ho-KaReve+10Ap_1.hkx
+b -a,Tn 0Sx0MF_Ho-KaReve+10Ap_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\Ho\KaReve\0Sx0MF_Ho-KaReve+10Ap_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KaReve+11Kn_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\Ho\KaReve\0Sx0MF_Ho-KaReve+11Kn_1.hkx
+b -a,Tn 0Sx0MF_Ho-KaReve+11Kn_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\Ho\KaReve\0Sx0MF_Ho-KaReve+11Kn_0.hkx
+
+
+'      ¦¦+      ¦¦+  ¦¦+ ¦¦¦¦¦¦+                                                                                                                                      
+'      +¦¦+     ¦¦¦  ¦¦¦¦¦+---¦¦+                                                                                                                                     
+'¦¦¦¦¦+ +¦¦+    ¦¦¦¦¦¦¦¦¦¦¦   ¦¦¦                                                                                                                                     
+'+----+ ¦¦++    ¦¦+--¦¦¦¦¦¦   ¦¦¦                                                                                                                                     
+'      ¦¦++     ¦¦¦  ¦¦¦+¦¦¦¦¦¦++                                                                                                                                     
+'      +-+      +-+  +-+ +-----+     
+
+
+'¦¦+  ¦¦+¦¦¦+   ¦¦+       ¦¦¦¦¦¦¦+¦¦¦¦¦¦¦¦+¦¦¦¦¦¦+  ¦¦¦¦¦+ ¦¦+ ¦¦¦¦¦¦+ ¦¦+  ¦¦+¦¦¦¦¦¦¦¦+                                                                              
+'¦¦¦ ¦¦++¦¦¦¦+  ¦¦¦       ¦¦+----++--¦¦+--+¦¦+--¦¦+¦¦+--¦¦+¦¦¦¦¦+----+ ¦¦¦  ¦¦¦+--¦¦+--+                                                                              
+'¦¦¦¦¦++ ¦¦+¦¦+ ¦¦¦       ¦¦¦¦¦¦¦+   ¦¦¦   ¦¦¦¦¦¦++¦¦¦¦¦¦¦¦¦¦¦¦¦¦  ¦¦¦+¦¦¦¦¦¦¦¦   ¦¦¦                                                                                 
+'¦¦+-¦¦+ ¦¦¦+¦¦+¦¦¦       +----¦¦¦   ¦¦¦   ¦¦+--¦¦+¦¦+--¦¦¦¦¦¦¦¦¦   ¦¦¦¦¦+--¦¦¦   ¦¦¦                                                                                 
+'¦¦¦  ¦¦+¦¦¦ +¦¦¦¦¦¦¦+    ¦¦¦¦¦¦¦¦   ¦¦¦   ¦¦¦  ¦¦¦¦¦¦  ¦¦¦¦¦¦+¦¦¦¦¦¦++¦¦¦  ¦¦¦   ¦¦¦                                                                                 
+'+-+  +-++-+  +---++-+    +------+   +-+   +-+  +-++-+  +-++-+ +-----+ +-+  +-+   +-+    
+
+
+
+b -Tn 0Sx0MF_Ho-KnStraV0_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Ho\KnStra\0Sx0MF_Ho-KnStraV0_1.hkx
+b -Tn 0Sx0MF_Ho-KnStraV0_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Ho\KnStra\0Sx0MF_Ho-KnStraV0_0.hkx
+
+b -Tn 0Sx0MF_Ho-KnStraV1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Ho\KnStra\0Sx0MF_Ho-KnStraV1_1.hkx
+b -Tn 0Sx0MF_Ho-KnStraV1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Ho\KnStra\0Sx0MF_Ho-KnStraV1_0.hkx
+
+b -Tn 0Sx0MF_Ho-KnStraV2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Ho\KnStra\0Sx0MF_Ho-KnStraV2_1.hkx
+b -Tn 0Sx0MF_Ho-KnStraV2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Ho\KnStra\0Sx0MF_Ho-KnStraV2_0.hkx
+
+
+
+b -a,Tn 0Sx0MF_Ho-KnStra+00Kn_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Ho\KnStra\0Sx0MF_Ho-KnStra+00Kn_1.hkx
+b -a,Tn 0Sx0MF_Ho-KnStra+00Kn_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Ho\KnStra\0Sx0MF_Ho-KnStra+00Kn_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KnStra+01Ap_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Ho\KnStra\0Sx0MF_Ho-KnStra+01Ap_1.hkx
+b -a,Tn 0Sx0MF_Ho-KnStra+01Ap_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Ho\KnStra\0Sx0MF_Ho-KnStra+01Ap_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KnStra+01St_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Ho\KnStra\0Sx0MF_Ho-KnStra+01St_1.hkx
+b -a,Tn 0Sx0MF_Ho-KnStra+01St_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Ho\KnStra\0Sx0MF_Ho-KnStra+01St_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-KnStra+11Ka_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Ho\KnStra\0Sx0MF_Ho-KnStra+11Ka_1.hkx
+b -a,Tn 0Sx0MF_Ho-KnStra+11Ka_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Ho\KnStra\0Sx0MF_Ho-KnStra+11Ka_0.hkx
+
+
+
+'      ¦¦+       ¦¦¦¦¦+ ¦¦¦¦¦¦+                                                                                                                                       
+'      +¦¦+     ¦¦+--¦¦+¦¦+--¦¦+                                                                                                                                      
+'¦¦¦¦¦+ +¦¦+    ¦¦¦¦¦¦¦¦¦¦¦¦¦¦++                                                                                                                                      
+'+----+ ¦¦++    ¦¦+--¦¦¦¦¦+---+                                                                                                                                       
+'      ¦¦++     ¦¦¦  ¦¦¦¦¦¦                                                                                                                                           
+'      +-+      +-+  +-++-+      
+
+
+
+'¦¦+  ¦¦+¦¦¦+   ¦¦+       ¦¦¦¦¦¦¦+¦¦¦¦¦¦¦¦+¦¦¦¦¦¦+  ¦¦¦¦¦+ ¦¦+ ¦¦¦¦¦¦+ ¦¦+  ¦¦+¦¦¦¦¦¦¦¦+     ¦¦¦¦¦+ ¦¦¦¦¦¦+                                                           
+'¦¦¦ ¦¦++¦¦¦¦+  ¦¦¦       ¦¦+----++--¦¦+--+¦¦+--¦¦+¦¦+--¦¦+¦¦¦¦¦+----+ ¦¦¦  ¦¦¦+--¦¦+--+    ¦¦+--¦¦+¦¦+--¦¦+                                                          
+'¦¦¦¦¦++ ¦¦+¦¦+ ¦¦¦       ¦¦¦¦¦¦¦+   ¦¦¦   ¦¦¦¦¦¦++¦¦¦¦¦¦¦¦¦¦¦¦¦¦  ¦¦¦+¦¦¦¦¦¦¦¦   ¦¦¦       ¦¦¦¦¦¦¦¦¦¦¦¦¦¦++                                                          
+'¦¦+-¦¦+ ¦¦¦+¦¦+¦¦¦       +----¦¦¦   ¦¦¦   ¦¦+--¦¦+¦¦+--¦¦¦¦¦¦¦¦¦   ¦¦¦¦¦+--¦¦¦   ¦¦¦       ¦¦+--¦¦¦¦¦+---+                                                           
+'¦¦¦  ¦¦+¦¦¦ +¦¦¦¦¦¦¦+    ¦¦¦¦¦¦¦¦   ¦¦¦   ¦¦¦  ¦¦¦¦¦¦  ¦¦¦¦¦¦+¦¦¦¦¦¦++¦¦¦  ¦¦¦   ¦¦¦       ¦¦¦  ¦¦¦¦¦¦                                                               
+'+-+  +-++-+  +---++-+    +------+   +-+   +-+  +-++-+  +-++-+ +-----+ +-+  +-+   +-+       +-+  +-++-+      
+
+b -Tn 0Sx0MF_Ap-KnStraAp_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Ap\KnStraAp\0Sx0MF_Ap-KnStraAp_1.hkx
+b -Tn 0Sx0MF_Ap-KnStraAp_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Ap\KnStraAp\0Sx0MF_Ap-KnStraAp_0.hkx
+
+
+b -a,Tn 0Sx0MF_Ap-KnStraAp+11Ka_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Ap\KnStraAp\0Sx0MF_Ap-KnStraAp+11Ka_1.hkx
+b -a,Tn 0Sx0MF_Ap-KnStraAp+11Ka_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Ap\KnStraAp\0Sx0MF_Ap-KnStraAp+11Ka_0.hkx
+
+b -a,Tn 0Sx0MF_Ap-KnStraAp+10Ho_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Ap\KnStraAp\0Sx0MF_Ap-KnStraAp+10Ho_1.hkx
+b -a,Tn 0Sx0MF_Ap-KnStraAp+10Ho_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Ap\KnStraAp\0Sx0MF_Ap-KnStraAp+10Ho_0.hkx
+
+
+
+b -a,Tn 0Sx0MF_Ap-KnStraAp+01Po_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Ap\KnStraAp\0Sx0MF_Ap-KnStraAp+01Po_1.hkx
+b -a,Tn 0Sx0MF_Ap-KnStraAp+01Po_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Ap\KnStraAp\0Sx0MF_Ap-KnStraAp+01Po_0.hkx
+
+b -a,Tn 0Sx0MF_Ap-KnStraAp+10HJO_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Ap\KnStraAp\0Sx0MF_Ap-KnStraAp+10HJO_1.hkx
+b -a,Tn 0Sx0MF_Ap-KnStraAp+10HJO_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Ap\KnStraAp\0Sx0MF_Ap-KnStraAp+10HJO_0.hkx
+
+
+
+
+
+
+b -Tn 0Sx0MF_Po-KnStraApPo_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Po\KnStraApPo\0Sx0MF_Po-KnStraApPo_S0_1.hkx
+b -Tn 0Sx0MF_Po-KnStraApPo_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Po\KnStraApPo\0Sx0MF_Po-KnStraApPo_S0_0.hkx
+
+b -Tn 0Sx0MF_Po-KnStraApPo_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Po\KnStraApPo\0Sx0MF_Po-KnStraApPo_S1_1.hkx
+b -Tn 0Sx0MF_Po-KnStraApPo_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Po\KnStraApPo\0Sx0MF_Po-KnStraApPo_S1_0.hkx
+
+b -Tn 0Sx0MF_Po-KnStraApPo_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Po\KnStraApPo\0Sx0MF_Po-KnStraApPo_S2_1.hkx
+b -Tn 0Sx0MF_Po-KnStraApPo_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Po\KnStraApPo\0Sx0MF_Po-KnStraApPo_S2_0.hkx
+
+b -Tn 0Sx0MF_Po-KnStraApPo_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Po\KnStraApPo\0Sx0MF_Po-KnStraApPo_S3_1.hkx
+b -Tn 0Sx0MF_Po-KnStraApPo_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Po\KnStraApPo\0Sx0MF_Po-KnStraApPo_S3_0.hkx
+
+b -Tn 0Sx0MF_Po-KnStraApPo_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Po\KnStraApPo\0Sx0MF_Po-KnStraApPo_S4_1.hkx
+b -Tn 0Sx0MF_Po-KnStraApPo_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Po\KnStraApPo\0Sx0MF_Po-KnStraApPo_S4_0.hkx
+
+b -Tn 0Sx0MF_Po-KnStraApPo_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Po\KnStraApPo\0Sx0MF_Po-KnStraApPo_S5_1.hkx
+b -Tn 0Sx0MF_Po-KnStraApPo_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Po\KnStraApPo\0Sx0MF_Po-KnStraApPo_S5_0.hkx
+
+b -a,Tn 0Sx0MF_Po-KnStraApPo+00CX_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Po\KnStraApPo\0Sx0MF_Po-KnStraApPo+00CX_1.hkx
+b -a,Tn 0Sx0MF_Po-KnStraApPo+00CX_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\Po\KnStraApPo\0Sx0MF_Po-KnStraApPo+00CX_0.hkx
+
+
+
+
+
+
+b -Tn 0Sx0MF_ApHJ-KnStraApHJO_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\ApHJ\KnStraApHJO\0Sx0MF_ApHJ-KnStraApHJO_S0_1.hkx
+b -Tn 0Sx0MF_ApHJ-KnStraApHJO_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\ApHJ\KnStraApHJO\0Sx0MF_ApHJ-KnStraApHJO_S0_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KnStraApHJO_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\ApHJ\KnStraApHJO\0Sx0MF_ApHJ-KnStraApHJO_S1_1.hkx
+b -Tn 0Sx0MF_ApHJ-KnStraApHJO_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\ApHJ\KnStraApHJO\0Sx0MF_ApHJ-KnStraApHJO_S1_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KnStraApHJO_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\ApHJ\KnStraApHJO\0Sx0MF_ApHJ-KnStraApHJO_S2_1.hkx
+b -Tn 0Sx0MF_ApHJ-KnStraApHJO_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\ApHJ\KnStraApHJO\0Sx0MF_ApHJ-KnStraApHJO_S2_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KnStraApHJO_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\ApHJ\KnStraApHJO\0Sx0MF_ApHJ-KnStraApHJO_S3_1.hkx
+b -Tn 0Sx0MF_ApHJ-KnStraApHJO_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\ApHJ\KnStraApHJO\0Sx0MF_ApHJ-KnStraApHJO_S3_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KnStraApHJO_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\ApHJ\KnStraApHJO\0Sx0MF_ApHJ-KnStraApHJO_S4_1.hkx
+b -Tn 0Sx0MF_ApHJ-KnStraApHJO_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\ApHJ\KnStraApHJO\0Sx0MF_ApHJ-KnStraApHJO_S4_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KnStraApHJO_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\ApHJ\KnStraApHJO\0Sx0MF_ApHJ-KnStraApHJO_S5_1.hkx
+b -Tn 0Sx0MF_ApHJ-KnStraApHJO_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\ApHJ\KnStraApHJO\0Sx0MF_ApHJ-KnStraApHJO_S5_0.hkx
+
+b -a,Tn 0Sx0MF_ApHJ-KnStraApHJO+10CX_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\ApHJ\KnStraApHJO\0Sx0MF_ApHJ-KnStraApHJO+10CX_1.hkx
+b -a,Tn 0Sx0MF_ApHJ-KnStraApHJO+10CX_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\ApHJ\KnStraApHJO\0Sx0MF_ApHJ-KnStraApHJO+10CX_0.hkx
+
+b -a,Tn 0Sx0MF_ApHJ-KnStraApHJO+10PJO_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\ApHJ\KnStraApHJO\0Sx0MF_ApHJ-KnStraApHJO+10PJO_1.hkx
+b -a,Tn 0Sx0MF_ApHJ-KnStraApHJO+10PJO_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\ApHJ\KnStraApHJO\0Sx0MF_ApHJ-KnStraApHJO+10PJO_0.hkx
+
+
+
+b -Tn 0Sx0MF_ApPJ-KnStraApPJB_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\ApPJ\KnStraApPJB\0Sx0MF_ApPJ-KnStraApPJB_S0_1.hkx
+b -Tn 0Sx0MF_ApPJ-KnStraApPJB_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\ApPJ\KnStraApPJB\0Sx0MF_ApPJ-KnStraApPJB_S0_0.hkx
+
+b -Tn,T0S0/0.8 0Sx0MF_ApPJ-KnStraApPJB_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\ApPJ\KnStraApPJB\0Sx0MF_ApPJ-KnStraApPJB_S1_1.hkx
+b -Tn 0Sx0MF_ApPJ-KnStraApPJB_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\ApPJ\KnStraApPJB\0Sx0MF_ApPJ-KnStraApPJB_S1_0.hkx
+
+b -Tn,T0S0/0.4,T0S0/1.2 0Sx0MF_ApPJ-KnStraApPJB_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\ApPJ\KnStraApPJB\0Sx0MF_ApPJ-KnStraApPJB_S2_1.hkx
+b -Tn 0Sx0MF_ApPJ-KnStraApPJB_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\ApPJ\KnStraApPJB\0Sx0MF_ApPJ-KnStraApPJB_S2_0.hkx
+
+b -Tn,T0S0/0.2,T0S0/0.75,T0S0/1.4 0Sx0MF_ApPJ-KnStraApPJB_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\ApPJ\KnStraApPJB\0Sx0MF_ApPJ-KnStraApPJB_S3_1.hkx
+b -Tn 0Sx0MF_ApPJ-KnStraApPJB_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\ApPJ\KnStraApPJB\0Sx0MF_ApPJ-KnStraApPJB_S3_0.hkx
+
+b -a,Tn 0Sx0MF_ApPJ-KnStraApPJB+10MX_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\ApPJ\KnStraApPJB\0Sx0MF_ApPJ-KnStraApPJB+10MX_1.hkx
+b -a,Tn 0Sx0MF_ApPJ-KnStraApPJB+10MX_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KNy9\ApPJ\KnStraApPJB\0Sx0MF_ApPJ-KnStraApPJB+10MX_0.hkx
+
+
+
+
+'      ¦¦+       ¦¦¦¦¦+ ¦¦¦¦¦¦+                                                                                                                                       
+'      +¦¦+     ¦¦+--¦¦+¦¦+--¦¦+                                                                                                                                      
+'¦¦¦¦¦+ +¦¦+    ¦¦¦¦¦¦¦¦¦¦¦  ¦¦¦                                                                                                                                      
+'+----+ ¦¦++    ¦¦+--¦¦¦¦¦¦  ¦¦¦                                                                                                                                      
+'      ¦¦++     ¦¦¦  ¦¦¦¦¦¦¦¦¦++                                                                                                                                      
+'      +-+      +-+  +-++-----+   
+
+
+
+'¦¦+  ¦¦+¦¦¦+   ¦¦+¦¦¦¦¦¦¦+¦¦¦¦¦¦¦+¦¦+         ¦¦¦¦¦¦+ ¦¦¦¦¦¦¦+¦¦¦¦¦¦¦+ ¦¦¦¦¦¦+ ¦¦¦¦¦¦+ ¦¦¦¦¦¦¦+                                                                      
+'¦¦¦ ¦¦++¦¦¦¦+  ¦¦¦¦¦+----+¦¦+----+¦¦¦         ¦¦+--¦¦+¦¦+----+¦¦+----+¦¦+---¦¦+¦¦+--¦¦+¦¦+----+                                                                      
+'¦¦¦¦¦++ ¦¦+¦¦+ ¦¦¦¦¦¦¦¦+  ¦¦¦¦¦+  ¦¦¦         ¦¦¦¦¦¦++¦¦¦¦¦+  ¦¦¦¦¦+  ¦¦¦   ¦¦¦¦¦¦¦¦¦++¦¦¦¦¦+                                                                        
+'¦¦+-¦¦+ ¦¦¦+¦¦+¦¦¦¦¦+--+  ¦¦+--+  ¦¦¦         ¦¦+--¦¦+¦¦+--+  ¦¦+--+  ¦¦¦   ¦¦¦¦¦+--¦¦+¦¦+--+                                                                        
+'¦¦¦  ¦¦+¦¦¦ +¦¦¦¦¦¦¦¦¦¦¦¦+¦¦¦¦¦¦¦+¦¦¦¦¦¦¦+    ¦¦¦¦¦¦++¦¦¦¦¦¦¦+¦¦¦     +¦¦¦¦¦¦++¦¦¦  ¦¦¦¦¦¦¦¦¦¦+                                                                      
+'+-+  +-++-+  +---++------++------++------+    +-----+ +------++-+      +-----+ +-+  +-++------+  
+
+b -Tn 0Sx0MF_Ap-KaBefo_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\Ap\KaBefo\0Sx0MF_Ap-KaBefo_1.hkx
+b -Tn 0Sx0MF_Ap-KaBefo_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\Ap\KaBefo\0Sx0MF_Ap-KaBefo_0.hkx
+
+
+b -a,Tn 0Sx0MF_Ap-KaBefo+11Kn_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\Ap\KaBefo\0Sx0MF_Ap-KaBefo+11Kn_1.hkx
+b -a,Tn 0Sx0MF_Ap-KaBefo+11Kn_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\Ap\KaBefo\0Sx0MF_Ap-KaBefo+11Kn_0.hkx
+
+b -a,Tn 0Sx0MF_Ap-KaBefo+10Ho_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\Ap\KaBefo\0Sx0MF_Ap-KaBefo+10Ho_1.hkx
+b -a,Tn 0Sx0MF_Ap-KaBefo+10Ho_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\Ap\KaBefo\0Sx0MF_Ap-KaBefo+10Ho_0.hkx
+
+b -a,Tn 0Sx0MF_Ap-KaBefo+10HJO_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\Ap\KaBefo\0Sx0MF_Ap-KaBefo+10HJO_1.hkx
+b -a,Tn 0Sx0MF_Ap-KaBefo+10HJO_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\Ap\KaBefo\0Sx0MF_Ap-KaBefo+10HJO_0.hkx
+
+
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJO_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJO\0Sx0MF_ApHJ-KaBefoHJO_S0_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJO_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJO\0Sx0MF_ApHJ-KaBefoHJO_S0_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJO_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJO\0Sx0MF_ApHJ-KaBefoHJO_S1_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJO_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJO\0Sx0MF_ApHJ-KaBefoHJO_S1_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJO_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJO\0Sx0MF_ApHJ-KaBefoHJO_S2_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJO_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJO\0Sx0MF_ApHJ-KaBefoHJO_S2_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJO_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJO\0Sx0MF_ApHJ-KaBefoHJO_S3_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJO_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJO\0Sx0MF_ApHJ-KaBefoHJO_S3_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJO_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJO\0Sx0MF_ApHJ-KaBefoHJO_S4_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJO_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJO\0Sx0MF_ApHJ-KaBefoHJO_S4_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJO_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJO\0Sx0MF_ApHJ-KaBefoHJO_S5_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJO_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJO\0Sx0MF_ApHJ-KaBefoHJO_S5_0.hkx
+
+b -a,Tn 0Sx0MF_ApHJ-KaBefoHJO+10CX_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJO\0Sx0MF_ApHJ-KaBefoHJO+10CX_1.hkx
+b -a,Tn 0Sx0MF_ApHJ-KaBefoHJO+10CX_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJO\0Sx0MF_ApHJ-KaBefoHJO+10CX_0.hkx
+
+b -a,Tn 0Sx0MF_ApHJ-KaBefoHJO+10Hn2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJO\0Sx0MF_ApHJ-KaBefoHJO+10Hn2_1.hkx
+b -a,Tn 0Sx0MF_ApHJ-KaBefoHJO+10Hn2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJO\0Sx0MF_ApHJ-KaBefoHJO+10Hn2_0.hkx
+
+b -a,Tn 0Sx0MF_ApHJ-KaBefoHJO+10HoBal_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJO\0Sx0MF_ApHJ-KaBefoHJO+10HoBal_1.hkx
+b -a,Tn 0Sx0MF_ApHJ-KaBefoHJO+10HoBal_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJO\0Sx0MF_ApHJ-KaBefoHJO+10HoBal_0.hkx
+
+b -a,Tn 0Sx0MF_ApHJ-KaBefoHJO+10HnAb_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJO\0Sx0MF_ApHJ-KaBefoHJO+10HnAb_1.hkx
+b -a,Tn 0Sx0MF_ApHJ-KaBefoHJO+10HnAb_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJO\0Sx0MF_ApHJ-KaBefoHJO+10HnAb_0.hkx
+
+b -a,Tn 0Sx0MF_ApHJ-KaBefoHJO+10DThro_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJO\0Sx0MF_ApHJ-KaBefoHJO+10DThro_1.hkx
+b -a,Tn 0Sx0MF_ApHJ-KaBefoHJO+10DThro_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJO\0Sx0MF_ApHJ-KaBefoHJO+10DThro_0.hkx
+
+
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJOHn2_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJOHn2\0Sx0MF_ApHJ-KaBefoHJOHn2_S0_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJOHn2_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJOHn2\0Sx0MF_ApHJ-KaBefoHJOHn2_S0_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJOHn2_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJOHn2\0Sx0MF_ApHJ-KaBefoHJOHn2_S1_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJOHn2_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJOHn2\0Sx0MF_ApHJ-KaBefoHJOHn2_S1_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJOHn2_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJOHn2\0Sx0MF_ApHJ-KaBefoHJOHn2_S2_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJOHn2_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJOHn2\0Sx0MF_ApHJ-KaBefoHJOHn2_S2_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJOHn2_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJOHn2\0Sx0MF_ApHJ-KaBefoHJOHn2_S3_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJOHn2_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJOHn2\0Sx0MF_ApHJ-KaBefoHJOHn2_S3_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJOHn2_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJOHn2\0Sx0MF_ApHJ-KaBefoHJOHn2_S4_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJOHn2_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJOHn2\0Sx0MF_ApHJ-KaBefoHJOHn2_S4_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJOHn2_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJOHn2\0Sx0MF_ApHJ-KaBefoHJOHn2_S5_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJOHn2_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJOHn2\0Sx0MF_ApHJ-KaBefoHJOHn2_S5_0.hkx
+
+b -a,Tn 0Sx0MF_ApHJ-KaBefoHJOHn2+10Hn1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJOHn2\0Sx0MF_ApHJ-KaBefoHJOHn2+10Hn1_1.hkx
+b -a,Tn 0Sx0MF_ApHJ-KaBefoHJOHn2+10Hn1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJOHn2\0Sx0MF_ApHJ-KaBefoHJOHn2+10Hn1_0.hkx
+
+
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJOHoBal_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJOHoBal\0Sx0MF_ApHJ-KaBefoHJOHoBal_S0_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJOHoBal_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJOHoBal\0Sx0MF_ApHJ-KaBefoHJOHoBal_S0_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJOHoBal_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJOHoBal\0Sx0MF_ApHJ-KaBefoHJOHoBal_S1_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJOHoBal_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJOHoBal\0Sx0MF_ApHJ-KaBefoHJOHoBal_S1_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJOHoBal_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJOHoBal\0Sx0MF_ApHJ-KaBefoHJOHoBal_S2_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJOHoBal_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJOHoBal\0Sx0MF_ApHJ-KaBefoHJOHoBal_S2_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJOHoBal_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJOHoBal\0Sx0MF_ApHJ-KaBefoHJOHoBal_S3_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJOHoBal_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJOHoBal\0Sx0MF_ApHJ-KaBefoHJOHoBal_S3_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJOHoBal_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJOHoBal\0Sx0MF_ApHJ-KaBefoHJOHoBal_S4_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJOHoBal_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJOHoBal\0Sx0MF_ApHJ-KaBefoHJOHoBal_S4_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJOHoBal_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJOHoBal\0Sx0MF_ApHJ-KaBefoHJOHoBal_S5_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJOHoBal_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJOHoBal\0Sx0MF_ApHJ-KaBefoHJOHoBal_S5_0.hkx
+
+b -a,Tn 0Sx0MF_ApHJ-KaBefoHJOHoBal+10HnxBal_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJOHoBal\0Sx0MF_ApHJ-KaBefoHJOHoBal+10HnxBal_1.hkx
+b -a,Tn 0Sx0MF_ApHJ-KaBefoHJOHoBal+10HnxBal_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJOHoBal\0Sx0MF_ApHJ-KaBefoHJOHoBal+10HnxBal_0.hkx
+
+
+
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJORuAb_S0V1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJORuAb\0Sx0MF_ApHJ-KaBefoHJORuAb_S0V1_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJORuAb_S0V1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJORuAb\0Sx0MF_ApHJ-KaBefoHJORuAb_S0V1_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJORuAb_S0V2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJORuAb\0Sx0MF_ApHJ-KaBefoHJORuAb_S0V2_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJORuAb_S0V2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJORuAb\0Sx0MF_ApHJ-KaBefoHJORuAb_S0V2_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJORuAb_S1V1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJORuAb\0Sx0MF_ApHJ-KaBefoHJORuAb_S1V1_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJORuAb_S1V1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJORuAb\0Sx0MF_ApHJ-KaBefoHJORuAb_S1V1_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJORuAb_S1V2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJORuAb\0Sx0MF_ApHJ-KaBefoHJORuAb_S1V2_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJORuAb_S1V2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJORuAb\0Sx0MF_ApHJ-KaBefoHJORuAb_S1V2_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJORuAb_S2V1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJORuAb\0Sx0MF_ApHJ-KaBefoHJORuAb_S2V1_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJORuAb_S2V1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJORuAb\0Sx0MF_ApHJ-KaBefoHJORuAb_S2V1_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJORuAb_S2V2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJORuAb\0Sx0MF_ApHJ-KaBefoHJORuAb_S2V2_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJORuAb_S2V2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJORuAb\0Sx0MF_ApHJ-KaBefoHJORuAb_S2V2_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJORuAb_S3V1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJORuAb\0Sx0MF_ApHJ-KaBefoHJORuAb_S3V1_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJORuAb_S3V1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJORuAb\0Sx0MF_ApHJ-KaBefoHJORuAb_S3V1_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJORuAb_S3V2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJORuAb\0Sx0MF_ApHJ-KaBefoHJORuAb_S3V2_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJORuAb_S3V2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJORuAb\0Sx0MF_ApHJ-KaBefoHJORuAb_S3V2_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJORuAb_S4V1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJORuAb\0Sx0MF_ApHJ-KaBefoHJORuAb_S4V1_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJORuAb_S4V1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJORuAb\0Sx0MF_ApHJ-KaBefoHJORuAb_S4V1_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJORuAb_S4V2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJORuAb\0Sx0MF_ApHJ-KaBefoHJORuAb_S4V2_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJORuAb_S4V2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJORuAb\0Sx0MF_ApHJ-KaBefoHJORuAb_S4V2_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJORuAb_S5V1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJORuAb\0Sx0MF_ApHJ-KaBefoHJORuAb_S5V1_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJORuAb_S5V1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJORuAb\0Sx0MF_ApHJ-KaBefoHJORuAb_S5V1_0.hkx
+
+b -Tn 0Sx0MF_ApHJ-KaBefoHJORuAb_S5V2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJORuAb\0Sx0MF_ApHJ-KaBefoHJORuAb_S5V2_1.hkx
+b -Tn 0Sx0MF_ApHJ-KaBefoHJORuAb_S5V2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJORuAb\0Sx0MF_ApHJ-KaBefoHJORuAb_S5V2_0.hkx
+
+b -a,Tn 0Sx0MF_ApHJ-KaBefoHJORuAb+10HnxAb_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJORuAb\0Sx0MF_ApHJ-KaBefoHJORuAb+10HnxAb_1.hkx
+b -a,Tn 0Sx0MF_ApHJ-KaBefoHJORuAb+10HnxAb_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6KAy9\ApHJ\KaBefoHJORuAb\0Sx0MF_ApHJ-KaBefoHJORuAb+10HnxAb_0.hkx
+
+
+
+
+b -Tn 0Sx0MF_Ho-Squat_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\Ho\Squat\0Sx0MF_Ho-Squat_1.hkx
+b -Tn 0Sx0MF_Ho-Squat_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\Ho\Squat\0Sx0MF_Ho-Squat_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-Squat+11St_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\Ho\Squat\0Sx0MF_Ho-Squat+11St_1.hkx
+b -a,Tn 0Sx0MF_Ho-Squat+11St_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\Ho\Squat\0Sx0MF_Ho-Squat+11St_0.hkx
+
+b -a,Tn 0Sx0MF_Ho-Squat+10HJO_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\Ho\Squat\0Sx0MF_Ho-Squat+10HJO_1.hkx
+b -a,Tn 0Sx0MF_Ho-Squat+10HJO_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\Ho\Squat\0Sx0MF_Ho-Squat+10HJO_0.hkx
+
+
+
+
+b -a,Tn 0Sx0MF_HJ-SquatHJO+10CX_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\HJ\SquatHJO\0Sx0MF_HJ-SquatHJO+10CX_1.hkx
+b -a,Tn 0Sx0MF_HJ-SquatHJO+10CX_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\HJ\SquatHJO\0Sx0MF_HJ-SquatHJO+10CX_0.hkx
+
+b -a,Tn 0Sx0MF_HJ-SquatHJO+10BJO_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\HJ\SquatHJO\0Sx0MF_HJ-SquatHJO+10BJO_1.hkx
+b -a,Tn 0Sx0MF_HJ-SquatHJO+10BJO_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\HJ\SquatHJO\0Sx0MF_HJ-SquatHJO+10BJO_0.hkx
+
+b -Tn 0Sx0MF_HJ-SquatHJO_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\HJ\SquatHJO\0Sx0MF_HJ-SquatHJO_S0_1.hkx
+b -Tn 0Sx0MF_HJ-SquatHJO_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\HJ\SquatHJO\0Sx0MF_HJ-SquatHJO_S0_0.hkx
+
+b -Tn 0Sx0MF_HJ-SquatHJO_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\HJ\SquatHJO\0Sx0MF_HJ-SquatHJO_S1_1.hkx
+b -Tn 0Sx0MF_HJ-SquatHJO_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\HJ\SquatHJO\0Sx0MF_HJ-SquatHJO_S1_0.hkx
+
+b -Tn 0Sx0MF_HJ-SquatHJO_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\HJ\SquatHJO\0Sx0MF_HJ-SquatHJO_S2_1.hkx
+b -Tn 0Sx0MF_HJ-SquatHJO_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\HJ\SquatHJO\0Sx0MF_HJ-SquatHJO_S2_0.hkx
+
+b -Tn 0Sx0MF_HJ-SquatHJO_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\HJ\SquatHJO\0Sx0MF_HJ-SquatHJO_S3_1.hkx
+b -Tn 0Sx0MF_HJ-SquatHJO_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\HJ\SquatHJO\0Sx0MF_HJ-SquatHJO_S3_0.hkx
+
+b -Tn 0Sx0MF_HJ-SquatHJO_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\HJ\SquatHJO\0Sx0MF_HJ-SquatHJO_S4_1.hkx
+b -Tn 0Sx0MF_HJ-SquatHJO_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\HJ\SquatHJO\0Sx0MF_HJ-SquatHJO_S4_0.hkx
+
+b -Tn 0Sx0MF_HJ-SquatHJO_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\HJ\SquatHJO\0Sx0MF_HJ-SquatHJO_S5_1.hkx
+b -Tn 0Sx0MF_HJ-SquatHJO_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\HJ\SquatHJO\0Sx0MF_HJ-SquatHJO_S5_0.hkx
+
+
+b -Tn 0Sx0MF_HJ-SquatHJO8U_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\HJ\SquatHJO8U\0Sx0MF_HJ-SquatHJO8U_S0_1.hkx
+b -Tn 0Sx0MF_HJ-SquatHJO8U_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\HJ\SquatHJO8U\0Sx0MF_HJ-SquatHJO8U_S0_0.hkx
+
+b -Tn 0Sx0MF_HJ-SquatHJO8U_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\HJ\SquatHJO8U\0Sx0MF_HJ-SquatHJO8U_S1_1.hkx
+b -Tn 0Sx0MF_HJ-SquatHJO8U_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\HJ\SquatHJO8U\0Sx0MF_HJ-SquatHJO8U_S1_0.hkx
+
+b -Tn 0Sx0MF_HJ-SquatHJO8U_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\HJ\SquatHJO8U\0Sx0MF_HJ-SquatHJO8U_S2_1.hkx
+b -Tn 0Sx0MF_HJ-SquatHJO8U_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\HJ\SquatHJO8U\0Sx0MF_HJ-SquatHJO8U_S2_0.hkx
+
+b -Tn 0Sx0MF_HJ-SquatHJO8U_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\HJ\SquatHJO8U\0Sx0MF_HJ-SquatHJO8U_S3_1.hkx
+b -Tn 0Sx0MF_HJ-SquatHJO8U_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\HJ\SquatHJO8U\0Sx0MF_HJ-SquatHJO8U_S3_0.hkx
+
+b -Tn 0Sx0MF_HJ-SquatHJO8U_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\HJ\SquatHJO8U\0Sx0MF_HJ-SquatHJO8U_S4_1.hkx
+b -Tn 0Sx0MF_HJ-SquatHJO8U_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\HJ\SquatHJO8U\0Sx0MF_HJ-SquatHJO8U_S4_0.hkx
+
+b -Tn 0Sx0MF_HJ-SquatHJO8U_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\HJ\SquatHJO8U\0Sx0MF_HJ-SquatHJO8U_S5_1.hkx
+b -Tn 0Sx0MF_HJ-SquatHJO8U_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\HJ\SquatHJO8U\0Sx0MF_HJ-SquatHJO8U_S5_0.hkx
+
+
+
+b -a,Tn 0Sx0MF_BJ-SquatBJO+10HJO_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\BJ\SquatBJO\0Sx0MF_BJ-SquatBJO+10HJO_1.hkx
+b -a,Tn 0Sx0MF_BJ-SquatBJO+10HJO_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\BJ\SquatBJO\0Sx0MF_BJ-SquatBJO+10HJO_0.hkx
+
+
+b -Tn 0Sx0MF_BJ-SquatBJO_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\BJ\SquatBJO\0Sx0MF_BJ-SquatBJO_S0_1.hkx
+b -Tn 0Sx0MF_BJ-SquatBJO_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\BJ\SquatBJO\0Sx0MF_BJ-SquatBJO_S0_0.hkx
+
+b -Tn 0Sx0MF_BJ-SquatBJO_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\BJ\SquatBJO\0Sx0MF_BJ-SquatBJO_S1_1.hkx
+b -Tn 0Sx0MF_BJ-SquatBJO_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\BJ\SquatBJO\0Sx0MF_BJ-SquatBJO_S1_0.hkx
+
+b -Tn 0Sx0MF_BJ-SquatBJO_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\BJ\SquatBJO\0Sx0MF_BJ-SquatBJO_S2_1.hkx
+b -Tn 0Sx0MF_BJ-SquatBJO_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\BJ\SquatBJO\0Sx0MF_BJ-SquatBJO_S2_0.hkx
+
+b -Tn 0Sx0MF_BJ-SquatBJO_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\BJ\SquatBJO\0Sx0MF_BJ-SquatBJO_S3_1.hkx
+b -Tn 0Sx0MF_BJ-SquatBJO_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\BJ\SquatBJO\0Sx0MF_BJ-SquatBJO_S3_0.hkx
+
+b -Tn 0Sx0MF_BJ-SquatBJO_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\BJ\SquatBJO\0Sx0MF_BJ-SquatBJO_S4_1.hkx
+b -Tn 0Sx0MF_BJ-SquatBJO_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\0MF\Sy6Cy9\BJ\SquatBJO\0Sx0MF_BJ-SquatBJO_S4_0.hkx

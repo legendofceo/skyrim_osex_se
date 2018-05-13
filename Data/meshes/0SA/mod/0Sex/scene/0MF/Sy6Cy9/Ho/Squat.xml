@@ -1,0 +1,39 @@
+<scene id="0MF|Sy6!Cy9|Ho|Squat" actors="2" style="OScene">
+<info name="Squat | Submissive" animator="Ceo"/>
+<region om="A" maj="K" min="K" stage="" step="" story=""/>
+<anim id="0Sx0MF_Ho-Squat" t="L" l="2"/>
+<nav>
+	<tab empty="1" icon="sdom"/><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
+	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
+		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hmajorgo" icon="obbstup_f" go="^+11St" text="^standUp">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="ohjs2_9_$G1" go="^+10HJO" text="^wrapYourHandAroundWAndStroke" t0="0">
+			<hhue n="hu" cmd="rg" a="1"/><ihue cmd="body"><bo a="1"/><bo a="0"/></ihue>
+			</option>
+		</page>
+	</tab>
+</nav>
+<eyes a="0" facerel="0" actionrel="0" bodyrel="1">
+<primary v="-100" h="0" vpan="10" hpan="10"/>
+<face v="-100" h="0" vpan="10" hpan="10"/>
+<body v="-100" h="0" vpan="10" hpan="10"/>
+<action v="-100" h="0" vpan="10" hpan="10"/>
+<away v="-100" h="0" vpan="80" hpan="100"/>
+</eyes>	 
+<eyes a="1" facerel="1" actionrel="0" bodyrel="0">
+<primary v="-100" h="0" vpan="5" hpan="10" />
+<face v="100" h="0" vpan="5" hpan="10" />
+<body v="100" h="0" vpan="5" hpan="10" />
+<action v="-100" h="0" vpan="5" hpan="10" />
+<away v="0" h="0" vpan="90" hpan="90" />
+</eyes>
+<motif drive="intimate" theme="Domineer"/>
+<motif drive="intimate" theme="Submissive"/>
+<autonav>
+<hub b="0MF|Sy6!KNy9|ApPJ|KnStraApPJB+10MX"/>		
+</autonav>
+</scene>

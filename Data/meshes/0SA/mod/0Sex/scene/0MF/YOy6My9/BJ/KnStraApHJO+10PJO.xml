@@ -1,0 +1,19 @@
+<scene id="0MF|Sy6!KNy9|ApHJ|KnStraApHJO+10PJO" actors="2" style="OScene">
+<info name="Kneel Straight |+ Lollipop Blowjob" animator="Ceo"/>
+<anim id="0Sx0MF_ApHJ-KnStraApHJO+10PJO" t="T" l="4" dest="0MF|Sy6!KNy9|ApPJ|KnStraApPJB">
+<mfx a= "0">
+<fx0 ti="1" cmd="BLS_OGENTLEMAN" suite="bj" suitecmd=""/>
+<fx1 ti="1" cmd="BLS_OGENTLEMAN" suite="bj" suitecmd=""/>
+</mfx>
+<mfx a= "1">
+<fx0 ti="2.9" cmd="BLS_MOUTH" suite="bj" suitecmd=""/>
+<fx1 ti="2.9" cmd="BLS_MOUTH" suite="bj" suitecmd=""/>
+</mfx>
+<dfx a="0" fx="1"/>
+<dfx a="1" fx="1"/>
+</anim>
+</scene>
+
+
+
+

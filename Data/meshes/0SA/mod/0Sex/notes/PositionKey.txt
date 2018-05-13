@@ -1,0 +1,179 @@
+ORIENTATION:
+
+
+4 Sideways Facing away from Center
+5 Upside Down Facing away from center
+6 Facing away from center
+
+3 facing Dom's Left
+2 Facing Dom's Right
+
+7 Sideways Facing Center
+8 Upside Down facing center
+9 Facing center
+
+
+
+y = actors aligned on the y axis (front back)
+x = actors aligned on the x axis (side)
+
+
+!x = move actor to the side (on the x axis)
+
+S (St) = standing
+
+
+SB = Standing bent over
+SE = Standing Power Bend
+
+
+K () = Kneeling when specificness is not needed
+
+Kn = Kneel Both knees (straightish)
+Kf = Kneel One Foot
+Ka = Kneel Low (against ankles or legs wide)
+
+Do = On All fours straight
+Dd = On all fours bent
+De = On all fours face down 
+
+Ea = Lean Against
+Eo = Lean Over
+Es = UnLean
+
+So = Straighten Up (ReverseBendOver)
+Bo = Bend Over 
+Ba = Bend Over (ArchBack)
+Sb = Lean Back
+
+Lego = LetGo
+HandsOn = Ho
+Hax = hands off
+
+Body Parts
+
+Bt = Ass
+Ke = Knee
+La = Lap
+Le = Leg
+
+Actions
+
+Pr = Press / Soft Pin
+Px = Stop Press
+
+Lf = Lift
+
+
+Dnf = Set down on feet
+Upf = Raise off Feet
+
+
+Fd = Fold
+Gi = Grip
+
+
+Sad = Straddle
+Srd = right foot over Face Straddle
+Srx = right off
+Sld = left foot over Face Straddle
+Slx = left off
+Sfd = FaceStraddle
+Sfx = facestraddle off
+
+Tfd = Sit on face
+Tfx = Get off face
+
+RLF = Right leg forward
+RLX
+LLF = Left Leg Forward
+LLX
+
+Yi2, Yi3 = Lay Down Side
+Yd = Lay Down
+Yo = Lay Over
+Yh = Lay hover (Almost lay but hover over)
+Lo = LegsOut
+Li = LegsIn
+Lub = Baby leg Spread
+Lubx
+Ns = Leg Ninja Sissors
+Lw = Legs Wrap
+Ll = Legs UnWrap (Loosen)
+
+sg = signal
+
+M = Missionary (Laying on back, Legs Outside)
+MI = Laying on back legs in
+MU = Laying on back but legs are raised or folded so the rear is lifted off the ground
+I = Side Laying down (Like spooning)
+
+
+Cpt = Clit Press Thumb
+Crt = Clit Rub THumb
+Crx = Cancel Clit Rub
+Pf1 = Pus Finger #
+
+
+Cu = Crouch
+
+CX = release cock
+MX = mouth off 
+XO = Sex Pull Out (NoHand)
+
+Spr = Spread
+Spx = Spread > Shut
+
+Scd = Scoot d
+Scu = Scoot up
+
+Thi = Thighs
+Thu = Thighs Up
+Thu = Thighs Down
+
+GpThu
+
+Aku Ankles Up
+Akd Ankles Down
+Aki Ankles In
+Ako Ankles Out
+Akb Ankles Up and out
+
+Gp = Grip
+
+Gpo = Over Grip 
+Gpu = Under Grip
+akm = max out and up (Knees buckled)
+
+
+TAX = Cancel Torso/Down
+TAD = Torso/Down (In a doggystyle sense)
+TAS = Torso/Down head to the side (In a doggystyle sense)
+
+Psl = Pull forawrd and slide the target down in the process
+
+Sup = Supporting Body if they are hanging over etc. put them in a firmer position
+
+
+
+Hob = Handjob (Full)
+
+
+Hn1 = 1 Hand
+Hn2 = 2 Hand
+
+Ro = Rough
+Rub = Rub (Extended for transition descrptor)
+Rux = Stop
+
+Bal = Bal;s
+Ab = Stomach / Abs
+
+RubBal = RubBals
+RuAbs
+
+Ho = Hold Gentle
+
+HE = Hold Rough 
+
+HD = Hold rough head

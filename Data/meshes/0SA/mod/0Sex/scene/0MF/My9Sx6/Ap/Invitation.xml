@@ -1,0 +1,41 @@
+<scene id="0MF|My9!Sx6|Ap|Invitation" actors="2" style="OScene">
+<info name="Invitation | Affection" animator="Ceo"/>
+<anim id="0Sx0MF_Ap-Invitation" t="L" l="2"/>
+
+<nav>
+	<tab actor="0" icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/>
+	</tab>
+	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
+		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="oknlbdn_f" go="^+11Kn" text="^kneelDown">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="" go="^+10SadSt" text="^standOverW" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+		<page icon="mtriex"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="" go="BG|My9!Sx6|Ap|Invitation+10F180" text="^flipWOver" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			<cond cmd="plugin" id="BG"/>
+			</option>
+		</page>
+	</tab>
+</nav>
+<eyes a="0" facerel="0" actionrel="2" bodyrel="0">
+<primary v="55" h="20" vpan="10" hpan="15"/>
+<face v="55" h="20" vpan="10" hpan="15"/>
+<body v="55" h="20" vpan="10" hpan="15"/>
+<action v="55" h="20" vpan="10" hpan="15"/>
+<away v="55" h="20" vpan="10" hpan="15"/>
+</eyes>	
+<eyes a="1" facerel="0" actionrel="2" bodyrel="0">
+<primary v="-100" h="20" vpan="0" hpan="15"/>
+<face v="-100" h="20" vpan="0" hpan="15"/>
+<body v="-100" h="20" vpan="0" hpan="15"/>
+<action v="-100" h="20" vpan="0" hpan="15"/>
+<away v="-100" h="20" vpan="0" hpan="15"/>
+</eyes>
+<motif drive="intimate" theme="Affection"/>
+<motif drive="intimate" theme="Affection"/>
+</scene>

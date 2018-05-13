@@ -1,0 +1,9 @@
+<scene id="EMF|Sy6!Sy9|ApU|St9Dally+01miscarms" actors="2" style="OScene">
+<info name="Standing Dally | Sub Misc (Arms) Undress" animator="Ceo"/>
+<anim id="0SxEMF_ApU-St9Dally+01miscarms" t="T" l="12" dest="0MF|Sy6!Sy9|Ap|St9Dally">
+<mfx a= "1">
+<fx0 ti="5.25" cmd="ESG_OFF" esg="miscarms"/>
+<fx1 ti="5.25" cmd="ESG_OFF" esg="miscarms"/>
+</mfx>
+</anim>
+</scene>

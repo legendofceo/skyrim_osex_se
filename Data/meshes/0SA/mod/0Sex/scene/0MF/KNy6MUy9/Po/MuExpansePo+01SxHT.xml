@@ -1,0 +1,18 @@
+<scene id="0MF|KNy6!MUy9|Po|MuExpansePo+01SxHT" actors="2" style="OScene">
+<info name="Expanse, Pulled out jerk |+ Penetrate to heavy thrusts" animator="Ceo"/>
+<anim id="0Sx0MF_Po-MuExpansePo+01SxHT" t="T" l="6" dest="0MF|KNy6!MUy9|Sx|MuExpanseSxHT">
+<dfx a="0" fx="1"/>
+<mfx a= "1">
+<fx0 ti="1.2" cmd="EVNT">
+	<evnt cmd="actor" type="pnpus" subtype="OPenPusIn" drive="intimate" whodid="0" force="2">
+	<eyes><look v="-95" h="-90" vpan="5" hpan="10"/></eyes>
+	</evnt>
+</fx0>
+<fx1 ti="1.2" cmd="EVNT">
+	<evnt cmd="actor" type="pnpus" subtype="OPenPusIn" drive="intimate" whodid="0" force="2">
+	<eyes><look v="-95" h="-90" vpan="5" hpan="10"/></eyes>
+	</evnt>
+</fx1>
+</mfx>
+</anim>
+</scene>

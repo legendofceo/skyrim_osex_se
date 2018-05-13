@@ -1,0 +1,11 @@
+<scene id="0MF|_TOG|OM|AutoStartBasic" actors="2" style="OSceneTog">
+<togs>
+<tog0 id="flagMinMax" flag="approachAngle" min="90" max="270">
+		<tog1 cmd="DEST" dest="0MF|Sy6!Sy9|Ho|St9Adore+01T180"/>
+</tog0>
+<tog0 cmd="DESTLIST">
+<dest id="0MF|Sy6!Sy6|Ho|St6RevCud+01T180"/>
+<dest id="0MF|Sy6!Sy9|Ho|St9Adore+10PrBod"/>
+</tog0>
+</togs>
+</scene>

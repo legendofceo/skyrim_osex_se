@@ -1,0 +1,9 @@
+<scene id="EMF|Sy6!Sy9|ApU|St9Dally+10helmet" actors="2" style="OScene">
+<info name="Standing Dally | Dom Helmet Undress" animator="Ceo"/>
+<anim id="0SxEMF_ApU-St9Dally+10helmet" t="T" l="4" dest="0MF|Sy6!Sy9|Ap|St9Dally">
+<mfx a= "0">
+<fx0 ti="4" cmd="ESG_OFF" esg="helmet"/>
+<fx1 ti="4" cmd="ESG_OFF" esg="helmet"/>
+</mfx>
+</anim>
+</scene>

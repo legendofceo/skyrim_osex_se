@@ -1,0 +1,7 @@
+<scene id="0MF|YHy6!Uy6|Sx|SideGrindSxHT+01TI2" actors="2" style="OScene">
+<info name="SideGrinder |+ Put onto side" animator="Ceo"/>
+<anim id="0Sx0MF_Sx-SideGrindSxHT+01TI2" t="T" l="4" dest="0MF|Iy2!Iy2|Sx|SpoonSxPM">
+<dfx a="0" fx="1"/>
+<dfx a="1" fx="1"/>
+</anim>
+</scene>

@@ -1,0 +1,18 @@
+<scene id="0MF|My9!KNw9|VBJ|69PJB+10MX" actors="2" style="OScene">
+<info name="69, Blowjob |+ Mouth Off" animator="Ceo"/>
+<anim id="0Sx0MF_VBJ-69PJB+10MX" t="T" l="4" dest="0MF|My9!KNw9|VHJ|69HJO">
+<mfx a= "0">
+<fx0 ti="1" cmd="BLS_OGENTLEMAN" suite="bj" suitecmd="df"/>
+<fx1 ti="1" cmd="BLS_OGENTLEMAN" suite="bj" suitecmd="df"/>
+</mfx>
+<mfx a= "1">
+<fx0 ti=".4" cmd="BLS_MOUTH" suite="bj" suitecmd="df"/>
+<fx1 ti=".4" cmd="BLS_MOUTH" suite="bj" suitecmd="df"/>
+</mfx>
+<dfx a="0" fx="1"/> 
+<dfx a="1" fx="1"/>
+</anim>
+</scene>
+
+
+

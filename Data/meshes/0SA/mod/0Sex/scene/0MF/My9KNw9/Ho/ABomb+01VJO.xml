@@ -1,0 +1,7 @@
+<scene id="0MF|My9!KNw9|Ho|ABomb+01VJO" actors="2" style="OScene">
+<info name="A-Bomb |+ Eat" animator="Ceo"/>
+<anim id="0Sx0MF_Ho-ABomb+01VJO" t="T" l="2" dest="0MF|My9!KNw9|VJ|ABombVJO">
+<dfx a="0" fx="1"/> 
+<dfx a="1" fx="1"/>
+</anim>
+</scene>

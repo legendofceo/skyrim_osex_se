@@ -1,0 +1,7 @@
+<scene id="0MF|Sy6!LLy9|Ho|LiftedLotus+10HJO" actors="2" style="OScene">
+<info name="Lifted Lotus |+ Reach n' Stroke" animator="Ceo"/>
+<anim id="0Sx0MF_Ho-LiftedLotus+10HJO" t="T" l="4" dest="0MF|Sy6!LLy9|HJ|LiftedLotusHJO">
+<dfx a="0" fx="1"/>
+<dfx a="1" fx="1"/>
+</anim>
+</scene>

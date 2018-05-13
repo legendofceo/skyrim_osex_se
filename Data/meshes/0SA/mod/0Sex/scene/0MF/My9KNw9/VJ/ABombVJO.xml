@@ -1,0 +1,50 @@
+<scene id="0MF|My9!KNw9|VJ|ABombVJO" actors="2" style="OScene">
+<info name="ABomb | Face Sit" animator="Ceo"/>
+<region om="A" maj="M" min="Mz" stage="" step="" story=""/>
+<anim id="0Sx0MF_VJ-ABombVJO_S1" t="L" l="2"/>
+<speed a="0" min="0" max="2" name="thrusts">	
+	<sp mtx="^pivotsPerSec" qnt=".5">
+		<anim id="0Sx0MF_VJ-ABombVJO_S0" t="L" l="2"/></sp>
+	<sp mtx="^pivotsPerSec" qnt="1">
+		<anim id="0Sx0MF_VJ-ABombVJO_S1" t="L" l="2"/></sp>
+	<sp mtx="^pivotsPerSec" qnt="2">
+		<anim id="0Sx0MF_VJ-ABombVJO_S2" t="L" l="2"/></sp>
+</speed>
+<nav>
+	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
+		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^suckWFaster" minustext="^suckWSlower" t0="1"/>
+	</tab>
+	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
+		<page icon="morif"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="" go="^+10PUMX" text="^pullOffPFace" t0="0">
+			<hhue n="hu" cmd="rg" a="1"/><ihue cmd="body"><bo a="1"/><bo a="0"/></ihue>
+			</option>
+		</page>
+		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="ohjs2_9_$G1" go="^+10VHJO" text="^wrapYourHandAroundWAndStroke" t0="0">
+			<hhue n="hu" cmd="rg" a="1"/><ihue cmd="body"><bo a="1"/><bo a="0"/></ihue>
+			</option>
+		</page>
+	</tab>
+</nav>
+<eyes a="0" facerel="0" actionrel="2" bodyrel="1">
+<primary v="-80" h="0" vpan="10" hpan="10"/> 
+<face v="-80" h="0" vpan="10" hpan="10"/>
+<body v="-80" h="0" vpan="10" hpan="10"/>
+<action v="-80" h="0" vpan="10" hpan="10"/>
+<away v="-30" h="0" vpan="90" hpan="99"/>
+</eyes>	
+<eyes a="1" facerel="1" actionrel="2" bodyrel="0">
+<primary v="-60" h="-20" vpan="15" hpan="10" />
+<primary v="-60" h="-20" vpan="15" hpan="10" />
+<face v="-60" h="-20" vpan="15" hpan="10" />
+<body v="-60" h="-20" vpan="15" hpan="10" />
+<action v="-60" h="-20" vpan="15" hpan="10" />
+<away v="0" h="0" vpan="90" hpan="90" />
+</eyes>
+<motif drive="intimate" theme="G_VJob"/>
+<motif drive="intimate" theme="R_VJob"/>
+<autonav>
+<hub b="0MF|My9!KNw9|VJ|ABombVJO+10GX"/>
+</autonav>
+</scene>
