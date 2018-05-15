@@ -116,7 +116,7 @@
 <enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 <dynamicIcon />
 </l0>
-<l0 text="daddy" subtext="kneelingSit" icon="" fn="anav" warp="0MF|KNy6!KNy6|Ho|KnLap+01SiKe" travel="0MF|KFy6!TKy3|Ho|KfDaddy">
+<l0 text="daddy" subtext="kneelingSit" icon="osqtlbbdn_f" fn="anav" warp="0MF|KNy6!KNy6|Ho|KnLap+01SiKe" travel="0MF|KFy6!TKy3|Ho|KfDaddy">
 <titlePlus text="kneelingSit" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
 <titlePlus text="nameKneelWithNameSit" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
 <ex text="daddyEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
@@ -137,7 +137,7 @@
 <titlePlus text="nameKneelWithNameOnAllFours" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
 <ex text="doggyStyleLegsOutEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
 <titleGfx id="omu_nav"><prop id="_x" am="-4"/><prop id="_y" am="9"/><prop id="_xscale" am="-50"/><prop id="_yscale" am="-50"/></titleGfx>
-<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="1"/>
+<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="0"/>
 <dynamicIcon />
 </l0>
 <l0 text="doggyStyleLegsIn" subtext="onAllFours" icon="obododn_f" fn="anav" warp="0MF|KNy6!PUy6|Ho|DoggyLo+01CuLi" travel="0MF|Cy6!DOy6|Ho|DoggyLi">
@@ -161,7 +161,7 @@
 <titlePlus text="nameLayingNameReclined" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
 <ex text="mishVanillaEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
 <titleGfx id="omu_nav"><prop id="_x" am="-4"/><prop id="_y" am="9"/><prop id="_xscale" am="-50"/><prop id="_yscale" am="-50"/></titleGfx>
-<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="1"/>
+<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="0"/>
 <dynamicIcon />
 </l0>
 <l0 text="mishFolded" subtext="missionary" icon="oplumppen_f" fn="anav" warp="0MF|KNy6!PUy6|Ho|DoggyLo+01F180" travel="0MF|KNy6!MUy9|Ho|MuExpanse">
@@ -169,7 +169,7 @@
 <titlePlus text="nameKneelNameReclined" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
 <ex text="mishFoldedEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
 <titleGfx id="omu_nav"><prop id="_x" am="-4"/><prop id="_y" am="9"/><prop id="_xscale" am="-50"/><prop id="_yscale" am="-50"/></titleGfx>
-<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="1"/>
+<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="0"/>
 <dynamicIcon />
 </l0>
 <l0 text="mishFlyingV" subtext="missionary" icon="oplumpf180_f" fn="anav" warp="0MF|KNy6!MVy9|Sx|MvAkbSxHT+01Akm" travel="0MF|KNy6!MVy9|Sx|MvFlyVSxHT">
@@ -185,7 +185,7 @@
 <titlePlus text="nameLayingNameReclined" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
 <ex text="explorerEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
 <titleGfx id="omu_nav"><prop id="_x" am="-4"/><prop id="_y" am="9"/><prop id="_xscale" am="-50"/><prop id="_yscale" am="-50"/></titleGfx>
-<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="1"/>
+<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="0"/>
 <dynamicIcon />
 </l0>
 <l0 text="jupiter" subtext="layKneel" icon="oknlbdn_f" iRevX="1" fn="anav" warp="0MF|My9!Sx6|Ap|Invitation+11Kn" travel="0MF|My9!KNx6|Ap|PompAp">
@@ -196,7 +196,7 @@
 <enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 <dynamicIcon />
 </l0>
-<l0 text="spooning" subtext="layingDown" icon="osx_layside_f" fn="anav" warp="0MF|Iy2!Uy6|Ho|Drape+01TI2" travel="0MF|Iy2!Iy2|Ho|Spoon">
+<l0 text="spooning" subtext="layingDown" icon="oluup_9_f" fn="anav" warp="0MF|Iy2!Uy6|Ho|Drape+01TI2" travel="0MF|Iy2!Iy2|Ho|Spoon">
 <titlePlus text="layingDown" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
 <titlePlus text="nameAndNameLayingDown" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
 <ex text="spooningEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
@@ -221,7 +221,7 @@
 <dynamicIcon />
 <cond cmd="plugin" id="0M2F"/>
 </l0>
-<l0 text="unicorn" subtext="invitable" icon="" fn="anav" baseRGB="DEBEDB" warp="0MF|KNy6!PUy6|Sx|Melt+11StrBk" travel="0MF|KNy6!PUy6|Sx|DoggyVanilla">
+<l0 text="unicorn" subtext="invitable" icon="oikea_mf" fn="anav" baseRGB="DEBEDB" warp="0MF|KNy6!PUy6|Sx|Melt+11StrBk" travel="0MF|KNy6!PUy6|Sx|DoggyVanilla">
 <titlePlus text="invitable" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
 <titlePlus text="inviteSomeoneToJoin" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
 <ex text="unicornEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
@@ -230,7 +230,7 @@
 <dynamicIcon />
 <cond cmd="plugin" id="0MF2"/>
 </l0>
-<l0 text="wizardSex" subtext="entry" icon="" fn="anav" baseRGB="e86570" warp="0MF|Sy6!Sy9|Ho|St9Adore+01Ap" travel="0MF|Sy6!Sy9|Ap|St9Dally">
+<l0 text="wizardSex" subtext="entry" icon="osc_wizsex_mf" fn="anav" baseRGB="e86570" warp="0MF|Sy6!Sy9|Ho|St9Adore+01Ap" travel="0MF|Sy6!Sy9|Ap|St9Dally">
 <titlePlus text="entry" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
 <titlePlus text="enterSpecialScenes" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
 <ex text="wizardSexEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
@@ -246,50 +246,74 @@
 <warp text="warpToScene"/>
 <travel text="travelToScene"/>
 </cmdtext>
-<l0 text="anything" subtext="all" icon="osc_powerkiss_mf" fn="navtag" travel="1">
+<l0 text="anything" subtext="all" icon="opowkiss_mf" fn="navtag" travel="1">
 <tags id="all"/>
 <titlePlus text="all" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
 <ex text="anythingEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
 <titleGfx id="omu_spade"><prop id="_x" am="-8"/><prop id="_y" am="2"/></titleGfx>
-<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+<enhance a="0"/><enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
 <dynamicIcon />
 </l0>
-<l0 text="oriAffectionate" subtext="orientations" icon="oholdbody_8_mf" fn="navtag" travel="1">
+<l0 text="oriAffectionate" subtext="orientations" icon="ohandsoffbody_mf" fn="navtag" travel="1">
 <tags id="affection"/>
 <titlePlus text="orientations" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
 <ex text="oriAffectionateEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
 <titleGfx id="omu_heart2"><prop id="_x" am="-8"/><prop id="_y" am="2"/></titleGfx>
+<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="0"/>
+<showcase icon="oholdbody_8_mf">
 <enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+</showcase>
+<showcase icon="ohandsoffbody_mf">
+<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="0"/>
+</showcase>
+<showcase icon="ohandsoffbody_fm">
+<enhance a="0"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="1"/>
+</showcase>
 <dynamicIcon />
 </l0>	
-<l0 text="oriSuggestive" subtext="orientations" icon="obododn_6_f" fn="navtag">
+<l0 text="oriSuggestive" subtext="orientations" icon="ofdaut_f" fn="navtag" travel="1">
 <tags id="s_suggestive"/>
 <titlePlus text="orientations" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
 <ex text="oriSuggestiveEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
 <titleGfx id="omu_sexgfx"><prop id="_x" am="-8"/><prop id="_y" am="2"/></titleGfx>
 <enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+<showcase icon="ofdaut_f">
+<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+</showcase>
+<showcase icon="ostgbo45_f">
+<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+</showcase>
+<showcase icon="obododn_f">
+<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+</showcase>
 <dynamicIcon />
 </l0>	
-<l0 text="romance" subtext="all" icon="opowkiss_mf" fn="navtag">
+<l0 text="romance" subtext="all" icon="opowkiss_mf" fn="navtag" travel="1">
 <tags id="romantic"/>
 <titlePlus text="all" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
-<ex text="romanceEx" fontsize="9" fonttype="m"></ex>
+<ex text="romanceEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
 <titleGfx id="omu_heart2"><prop id="_x" am="-8"/><prop id="_y" am="2"/></titleGfx>
-<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+<enhance a="0"/><enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
 <dynamicIcon />
 </l0>	
-<l0 text="sex" subtext="all" icon="ohgpenfrs2_f" fn="navtag">
+<l0 text="sex" subtext="all" icon="oikea_mf" fn="navtag" travel="1">
 <tags id="sex"/>
 <titlePlus text="all" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
 <ex text="sexEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
 <titleGfx id="omu_sexgfx"><prop id="_x" am="-8"/><prop id="_y" am="2"/></titleGfx>
-<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="1"/>
+<ishade a="0"/><ishade a="1"/><enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="1"/>
 <showcase icon="ohgpenfrs2_f">
+<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="0"/>
+</showcase>
+<showcase icon="oikea_mf">
+<ishade a="0"/><ishade a="1"/><enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="1"/>
+</showcase>
+<showcase icon="obombpenrears2_f">
 <enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="1"/>
 </showcase>
 <dynamicIcon />
 </l0>	
-<l0 text="foreplay" subtext="all" icon="ohjugs2_9_f" fn="navtag">
+<l0 text="foreplay" subtext="all" icon="ohjugs2_9_f" fn="navtag" travel="1">
 <tags id="foreplay"/>
 <titlePlus text="all" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
 <titleGfx id="omu_mgen"><prop id="_x" am="-8"/><prop id="_y" am="2"/></titleGfx>
@@ -299,24 +323,30 @@
 <enhance a="1"/><ihue cmd="body"><bo a="1"/><bo a="0"/></ihue>
 </showcase>
 <showcase icon="objbbos_mf">
-<enhance a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
+<ishade a="0"/><ishade a="1"/><enhance a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
 </showcase>
 <showcase icon="objbf_f">
 <enhance a="1"/><ihue cmd="body"><bo a="1"/><bo a="0"/></ihue>
 </showcase>
 <dynamicIcon />
 </l0>	
-<l0 text="maleDriven" subtext="sex" icon="oikea_mf" fn="navtag">
+<l0 text="maleDriven" subtext="sex" icon="obbpenrearts2_f" fn="navtag" travel="1">
 <tags id="dsex"/>
 <titlePlus text="sex"><prop id="_yscale" am="25"/><prop id="_y" am="-22"/></titlePlus>
 <titlePlus text="namePenetratingName" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
 <titleGfx id="omu_male"><prop id="_x" am="12"/><prop id="_y" am="-15"/><prop id="_yscale" am="-50"/><prop id="_xscale" am="-50"/></titleGfx>
 <titleGfx id="omu_sub"><prop id="_x" am="-8"/><prop id="_y" am="2"/></titleGfx>
 <ex text="sexMaleDrivenEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
-<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="1"/>
+<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="0"/>
+<showcase icon="obbpenrearts2_f">
+<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="0"/>
+</showcase>
+<showcase icon="oplumppen_f">
+<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="0"/>
+</showcase>
 <dynamicIcon />
 </l0>	
-<l0 text="femaleDriven" subtext="sex" icon="obombpenrears2_f" fn="navtag">
+<l0 text="femaleDriven" subtext="sex" icon="obombpenrears2_f" fn="navtag" travel="1">
 <tags id="ssex"/>
 <titlePlus text="sex"><prop id="_yscale" am="25"/><prop id="_y" am="-22"/></titlePlus>
 <titlePlus text="namePenetratingName" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
@@ -326,25 +356,43 @@
 <enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="1"/>
 <dynamicIcon />
 </l0>
-<l0 text="blowJobs" subtext="foreplay" icon="objbbos_mf" fn="navtag">	
+<l0 text="blowJobs" subtext="foreplay" icon="objbbos_mf" fn="navtag" travel="1">	
 <tags id="s_blowjob"/>
 <titlePlus text="foreplay"><prop id="_yscale" am="25"/><prop id="_y" am="-22"/></titlePlus>
 <titlePlus text="performedByNameOnName" dtar0="1" dtar1="0" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
 <titleGfx id="omu_sub"><prop id="_x" am="-8"/><prop id="_y" am="2"/></titleGfx>
 <ex text="blowJobsEx" dtar0="1" dtar1="0" fontsize="9" fonttype="m"></ex>
-<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
+<ishade a="0"/><ishade a="1"/><enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
 <dynamicIcon />
 </l0>
-<l0 text="handJobs" subtext="foreplay" icon="obalhos2_f" fn="navtag">
+<l0 text="handJobs" subtext="foreplay" icon="obalhos2_f" fn="navtag" travel="1">
 <tags id="s_handjob"/>
 <titlePlus text="foreplay"><prop id="_yscale" am="25"/><prop id="_y" am="-22"/></titlePlus>
 <titlePlus text="performedByNameOnName" dtar0="1" dtar1="0" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
 <titleGfx id="omu_sub"><prop id="_x" am="-8"/><prop id="_y" am="2"/></titleGfx>
 <ex text="handJobsEx" dtar0="1" dtar1="0" fontsize="9" fonttype="m"></ex>
 <hhue n="hu" cmd="rg" a="1"/><ihue cmd="body"><bo a="1"/><bo a="0"/></ihue>
+<showcase icon="obalhos2_f">
+<hhue n="hu" cmd="rg" a="1"/><ihue cmd="body"><bo a="1"/><bo a="0"/></ihue>
+</showcase>
+<showcase icon="omgsholds2_f">
+<hhue n="hu" cmd="rg" a="1"/><ihue cmd="body"><bo a="1"/><bo a="0"/></ihue>
+</showcase>
+<showcase icon="ohjxs2_9_f">
+<hhue n="hu" cmd="rg" a="1"/><ihue cmd="body"><bo a="1"/><bo a="0"/></ihue>
+</showcase>
+<showcase icon="ohjugxs2_9_f">
+<hhue n="hu" cmd="rg" a="1"/><ihue cmd="body"><bo a="1"/><bo a="0"/></ihue>
+</showcase>
+<showcase icon="ohjugs2_9_f">
+<hhue n="hu" cmd="rg" a="1"/><ihue cmd="body"><bo a="1"/><bo a="0"/></ihue>
+</showcase>
+<showcase icon="ohjs2_9_f">
+<hhue n="hu" cmd="rg" a="1"/><ihue cmd="body"><bo a="1"/><bo a="0"/></ihue>
+</showcase>
 <dynamicIcon />
 </l0>
-<l0 text="jerking" subtext="selfPleasure" icon="omgsholds2_m" fn="navtag">
+<l0 text="jerking" subtext="selfPleasure" icon="omgsholds2_m" fn="navtag" travel="1">
 <tags id="d_jerk"/>
 <titlePlus text="selfPleasure" fontsize="11"><prop id="_yscale" am="10"/><prop id="_y" am="-15"/></titlePlus>
 <titlePlus text="performedByName" dtar0="0" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
@@ -353,7 +401,7 @@
 <hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="0"/>
 <dynamicIcon />
 </l0>
-<l0 text="rubAmpFinger" subtext="foreplay" icon="o2fpufr_mf" fn="navtag">
+<l0 text="rubAmpFinger" subtext="foreplay" icon="o2fpufr_mf" fn="navtag" travel="1">
 <tags id="d_rubjob"/>
 <titlePlus text="foreplay"><prop id="_yscale" am="25"/><prop id="_y" am="-22"/></titlePlus>
 <titlePlus text="performedByNameOnName" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
@@ -362,16 +410,16 @@
 <enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="0"/>	
 <dynamicIcon />
 </l0>
-<l0 text="head" subtext="foreplay" icon="" fn="navtag">
+<l0 text="head" subtext="foreplay" icon="osx_kn_m" fn="navtag" travel="1">
 <tags id="d_vajob"/>
 <titlePlus text="foreplay"><prop id="_yscale" am="25"/><prop id="_y" am="-22"/></titlePlus>
 <titlePlus text="performedByNameOnName" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
 <titleGfx id="omu_sub"><prop id="_x" am="-30"/><prop id="_y" am="-2"/></titleGfx>
-<ex text="rubAmpFingerEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
-<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="0"/>	
+<ex text="headEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
+<enhance a="0"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="0"/><ihue n="gx" cmd="rg" a="0"/>	
 <dynamicIcon />
 </l0>
-<l0 text="embracing" subtext="romantic" icon="opowemb_mf" fn="navtag">
+<l0 text="embracing" subtext="romantic" icon="opowemb_mf" fn="navtag" travel="1">
 <tags id="embrace"/>
 <titlePlus text="romantic" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
 <titlePlus text="romanticAffectNandN" dtar0="0" dtar1="1" dtar0="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
@@ -380,7 +428,7 @@
 <enhance a="0"/><enhance a="1"/><hhue n="hu0" cmd="rg" a="1"/><hhue n="hu1" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
 <dynamicIcon />
 </l0>	
-<l0 text="kissing" subtext="romantic" icon="opowkiss_mf" fn="navtag">
+<l0 text="kissing" subtext="romantic" icon="opowkiss_mf" fn="navtag" travel="1">
 <tags id="kiss"/>
 <titlePlus text="romantic" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
 <titlePlus text="romanticAffectNandN" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
@@ -389,7 +437,7 @@
 <enhance a="0"/><enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
 <dynamicIcon />
 </l0>	
-<l0 text="spankingName" subtext="debauchery" dtar0="1" icon="obbspankl_6_f" fn="navtag">
+<l0 text="spankingName" subtext="debauchery" dtar0="1" icon="obbspankl_6_f" fn="navtag" travel="1">
 <tags id="s_spank"/>
 <titlePlus text="debauchery" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
 <titlePlus text="performedOnNamesRear" dtar0="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
@@ -399,7 +447,7 @@
 <enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="1"/>
 <dynamicIcon />
 </l0>	
-<l0 text="undressingName" dtar0="1" subtext="clothing" icon="osc_pantypeelrear_f" fn="navtag">
+<l0 text="undressingName" dtar0="1" subtext="clothing" icon="osc_pantypeelrear_f" fn="navtag" travel="1">
 <tags id="esg"/>		
 <titlePlus text="clothing" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
 <titlePlus text="theUndressigOfName" dtar0="0" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
